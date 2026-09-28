@@ -1,0 +1,4909 @@
+{
+  "lessons": [
+    {
+      "id": "M01",
+      "title": "L’eau",
+      "manual_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "central_question": "Où passe l’eau, sous quelles formes, et comment la préserver ?",
+      "activities": [
+        {
+          "id": "M01-A01",
+          "title": "Suivre l’eau entre ses réservoirs",
+          "manual_pages": [
+            10,
+            11,
+            12,
+            13,
+            17
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            38,
+            39,
+            40
+          ],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Paysage en coupe",
+            "Réservoirs mer, lac, rivière, glacier, nappe et atmosphère",
+            "Cartes état et salinité"
+          ],
+          "student_actions": [
+            "Choisir un réservoir",
+            "Relier un trajet complet",
+            "Activer les légendes",
+            "Comparer pluie, neige, brouillard et vapeur"
+          ],
+          "variables": [
+            "Trajet choisi",
+            "État de l’eau",
+            "Lieu"
+          ],
+          "observations": [
+            "L’eau change de réservoir et parfois d’état",
+            "Les nappes sont reliées aux infiltrations",
+            "Le brouillard visible contient des gouttelettes, la vapeur est invisible"
+          ],
+          "deduction": "L’eau circule ; un nuage ne correspond pas à de la vapeur visible.",
+          "explanation": "Le soleil permet l’évaporation ; le refroidissement permet la condensation ; l’eau retombe puis ruisselle ou s’infiltre. Les plantes participent aux transferts.",
+          "application": "Reconstruire un trajet par la nappe puis un trajet par le glacier ; classer rosée, verglas et vapeur.",
+          "correction_rules": [
+            "Corriger chaque liaison d’après ses points de départ/arrivée et son processus, pas selon un ordre unique",
+            "Accepter des nuages à gouttelettes ou cristaux selon la scène",
+            "Eau douce ne signifie pas eau potable"
+          ],
+          "model_limits": [
+            "Modèle documentaire, sans calcul de météo ni temps réel du cycle",
+            "Les pourcentages détaillés du livre ne deviennent pas des données actuelles"
+          ]
+        },
+        {
+          "id": "M01-A02",
+          "title": "Observer l’eau qui change d’aspect",
+          "manual_pages": [
+            11,
+            17
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Eau liquide",
+            "Glaçon",
+            "Récipient ouvert",
+            "Surface froide",
+            "Commande de chauffage/refroidissement virtuels"
+          ],
+          "student_actions": [
+            "Refroidir puis réchauffer un échantillon",
+            "Observer la zone gazeuse et les gouttelettes condensées",
+            "Afficher une coupe explicative"
+          ],
+          "variables": [
+            "Chauffage ou refroidissement",
+            "État initial"
+          ],
+          "observations": [
+            "Glace, eau liquide et vapeur sont la même substance",
+            "La quantité restant dans un récipient ouvert peut diminuer sans destruction de matière"
+          ],
+          "deduction": "L’eau reste de la matière même lorsqu’on ne la voit plus.",
+          "explanation": "L’animation distingue la vapeur invisible du brouillard de gouttelettes au-dessus du récipient. Le détail des changements d’état sera repris dans les leçons suivantes.",
+          "application": "Expliquer un miroir embué et le séchage du pain évoqué p.17.",
+          "correction_rules": [
+            "Accepter gaz pour vapeur seulement",
+            "Ne pas conclure que toute perte de masse d’un aliment prouve à elle seule la présence exclusive d’eau"
+          ],
+          "model_limits": [
+            "Animation qualitative ; aucune température ni durée expérimentale non vérifiée",
+            "Adaptation manipulable d’un document du manuel ; ce n’est pas une expérience quantitative du livre"
+          ]
+        },
+        {
+          "id": "M01-A03",
+          "title": "Comparer des usages et une fuite",
+          "manual_pages": [
+            14,
+            15,
+            16,
+            17
+          ],
+          "origin": "creation_originale",
+          "guide_pages": [
+            42
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Robinet virtuel",
+            "Récipient gradué",
+            "Chronomètre virtuel",
+            "Cartes usages domestiques, agricoles et industriels"
+          ],
+          "student_actions": [
+            "Choisir un débit pédagogique et une durée",
+            "Recueillir l’eau",
+            "Comparer avant/après fermeture du robinet",
+            "Relier usages et gestes possibles"
+          ],
+          "variables": [
+            "Débit fixé",
+            "Durée",
+            "Usage"
+          ],
+          "observations": [
+            "À débit constant, prolonger l’écoulement augmente le volume",
+            "L’eau sert aussi à l’hygiène, à la production et aux êtres vivants"
+          ],
+          "deduction": "Économiser l’eau demande d’agir sur les pertes et les usages.",
+          "explanation": "Les données sont des scénarios pédagogiques affichés, pas des statistiques actuelles sur le Maroc. La présence d’eau dans les organismes est expliquée sans prescription médicale.",
+          "application": "Choisir une action pertinente et calculer le volume évité dans un cas nouveau.",
+          "correction_rules": [
+            "V= débit × durée avec unités cohérentes",
+            "Le classement des consommations dépend du document choisi",
+            "Aucune recommandation universelle de boire une quantité fixe"
+          ],
+          "model_limits": [
+            "Création originale fondée sur les thèmes de culture scientifique du manuel",
+            "Pas de diagnostic de potabilité ni de besoins médicaux"
+          ]
+        },
+        {
+          "id": "M01-A04",
+          "title": "Détecter la présence d’eau : complément facultatif",
+          "manual_pages": [],
+          "origin": "complement_guide",
+          "guide_pages": [
+            41,
+            43
+          ],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Sulfate de cuivre anhydre virtuel",
+            "Coupelle",
+            "Compte-gouttes",
+            "Eau témoin",
+            "Échantillons définis de lait, jus et huile"
+          ],
+          "student_actions": [
+            "Tester d’abord le témoin eau",
+            "Appliquer un échantillon défini",
+            "Comparer la couleur avant/après"
+          ],
+          "variables": [
+            "Nature de l’échantillon",
+            "Présence d’eau accessible au réactif"
+          ],
+          "observations": [
+            "Le réactif blanc bleuit au contact de l’eau"
+          ],
+          "deduction": "Un témoin aide à interpréter un test de présence.",
+          "explanation": "Ce test provient du guide et enrichit le laboratoire ; il n’est pas une activité des pages 10–17 du manuel.",
+          "application": "Choisir quel résultat justifie la présence d’eau.",
+          "correction_rules": [
+            "Bleuissement positif interprété dans les conditions du test",
+            "Un résultat négatif ne prouve pas une absence absolue d’eau"
+          ],
+          "model_limits": [
+            "Virtuel/documentaire uniquement",
+            "Le résultat erroné du guide concernant le vinaigre est exclu",
+            "Ne pas généraliser les résultats aux aliments réels secs/humides"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "title": "Les trois états de la matière",
+      "manual_pages": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "central_question": "Quelles observations permettent de distinguer solide, liquide et gaz ?",
+      "activities": [
+        {
+          "id": "M02-A01",
+          "title": "Transvaser un solide compact et du sable",
+          "manual_pages": [
+            18,
+            19,
+            20,
+            23
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            44,
+            45
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Pile utilisée comme objet compact",
+            "Sable",
+            "Bécher",
+            "Verre à pied",
+            "Loupe illustrative sur les grains"
+          ],
+          "student_actions": [
+            "Déplacer la pile entre récipients",
+            "Verser le sable",
+            "Comparer forme globale et forme des grains"
+          ],
+          "variables": [
+            "Solide compact/divisé",
+            "Forme du récipient"
+          ],
+          "observations": [
+            "La pile garde sa forme",
+            "Le tas de sable change de forme",
+            "Les grains restent solides"
+          ],
+          "deduction": "Un solide divisé peut s’écouler sans être un liquide.",
+          "explanation": "Le comportement du tas ne doit pas être attribué à chaque grain ; le critère saisir entre les doigts n’est qu’une observation du manuel.",
+          "application": "Classer caillou, sable, huile et glaçon en justifiant les observations.",
+          "correction_rules": [
+            "Accepter sable comme solide divisé",
+            "Ne pas déduire état liquide du seul écoulement"
+          ],
+          "model_limits": [
+            "Sable non assimilé à un fluide à surface toujours horizontale",
+            "Pas de moteur granulaire universel requis : formes contrôlées"
+          ]
+        },
+        {
+          "id": "M02-A02",
+          "title": "Incliner et transvaser l’eau",
+          "manual_pages": [
+            20,
+            22,
+            23
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            45,
+            47
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau colorée",
+            "Bécher",
+            "Verre à pied",
+            "Erlenmeyer",
+            "Cale",
+            "Repère vertical ou fil à plomb"
+          ],
+          "student_actions": [
+            "Transvaser sans perte",
+            "Incliner le récipient",
+            "Dessiner ou choisir la surface libre",
+            "Comparer au fil à plomb"
+          ],
+          "variables": [
+            "Forme du récipient",
+            "Angle",
+            "Volume constant"
+          ],
+          "observations": [
+            "La forme change",
+            "La surface au repos reste horizontale même sur une table inclinée"
+          ],
+          "deduction": "Le liquide prend la forme de son récipient ; sa surface libre au repos fournit un repère horizontal.",
+          "explanation": "La surface ne suit pas le fond incliné. Le niveau doit aussi correspondre au volume présent.",
+          "application": "Prévoir le niveau dans un récipient nouveau puis vérifier.",
+          "correction_rules": [
+            "Vérifier horizontale par rapport à la gravité",
+            "Accepter la zone du ménisque près des parois sans contredire la surface macroscopique plane"
+          ],
+          "model_limits": [
+            "Repos et pesanteur uniforme",
+            "Si le bord est dépassé, comptabiliser le débordement plutôt que conserver fictivement tout le volume"
+          ]
+        },
+        {
+          "id": "M02-A03",
+          "title": "Comprimer puis détendre de l’air",
+          "manual_pages": [
+            21,
+            22,
+            23
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            46
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Seringue sans aiguille",
+            "Bouchon",
+            "Air"
+          ],
+          "student_actions": [
+            "Boucher l’embout",
+            "Pousser puis tirer le piston",
+            "Comparer les graduations",
+            "Ouvrir et recommencer"
+          ],
+          "variables": [
+            "Position du piston",
+            "Ouverture/fermeture"
+          ],
+          "observations": [
+            "À quantité emprisonnée constante, le volume peut diminuer ou augmenter",
+            "Ouverte, la seringue échange de l’air"
+          ],
+          "deduction": "Un gaz n’a pas de volume propre ; il occupe l’espace disponible.",
+          "explanation": "Le changement de volume n’est pas une disparition d’air. La pression sera étudiée ensuite.",
+          "application": "Prévoir ce qui arrive à l’air d’une pompe bouchée.",
+          "correction_rules": [
+            "Compression=volume diminue ; expansion=augmente",
+            "Séparer scénario fermé et ouvert"
+          ],
+          "model_limits": [
+            "Pas d’air coloré comme observation réelle",
+            "Aucune compression jusqu’au volume nul",
+            "Le retour du piston dépend aussi des frottements"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "title": "Volume des liquides et des solides",
+      "manual_pages": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "central_question": "Comment mesurer la place occupée par un liquide ou un solide ?",
+      "activities": [
+        {
+          "id": "M03-A01",
+          "title": "Choisir un récipient et distinguer volume/capacité",
+          "manual_pages": [
+            24,
+            25,
+            26,
+            29,
+            32
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            48,
+            49,
+            50
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bouteille de capacité connue",
+            "Bécher gradué",
+            "Éprouvette graduée",
+            "Fiole jaugée",
+            "Erlenmeyer",
+            "Verre à pied"
+          ],
+          "student_actions": [
+            "Remplir partiellement puis jusqu’à la limite",
+            "Choisir un instrument pour un volume donné ou plusieurs volumes",
+            "Comparer finesse des graduations"
+          ],
+          "variables": [
+            "Quantité versée",
+            "Capacité",
+            "Type d’instrument"
+          ],
+          "observations": [
+            "La capacité ne change pas avec le remplissage",
+            "Une fiole jaugée repère un volume fixe",
+            "L’éprouvette permet plusieurs lectures"
+          ],
+          "deduction": "Le volume présent et la capacité sont deux informations différentes.",
+          "explanation": "Le trait de jauge n’est pas une série de graduations ; les béchers sont utiles au transfert et aux estimations.",
+          "application": "Choisir l’outil approprié pour préparer un volume fixe puis mesurer un volume inconnu.",
+          "correction_rules": [
+            "Ne pas accepter capacité comme volume d’un récipient à moitié rempli",
+            "1 L=1 dm³ ; 1 mL=1 cm³",
+            "Ne pas attribuer une précision fictive au bécher"
+          ],
+          "model_limits": [
+            "Précision définie pour chaque instrument choisi",
+            "Pipette/burette reconnues p.32 mais pas indispensables à cette première manipulation"
+          ]
+        },
+        {
+          "id": "M03-A02",
+          "title": "Lire et préparer un volume",
+          "manual_pages": [
+            25,
+            26,
+            27,
+            30,
+            32
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            50,
+            53
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Éprouvettes de capacités et pas variés",
+            "Eau",
+            "Commande de hauteur du regard",
+            "Compte-gouttes de réglage"
+          ],
+          "student_actions": [
+            "Poser verticalement sur un plan horizontal",
+            "Trouver unité et valeur d’une division",
+            "Placer le regard au bas du ménisque",
+            "Verser jusqu’à une valeur cible",
+            "Noter une mesure et son unité"
+          ],
+          "variables": [
+            "Volume",
+            "Pas de graduation",
+            "Position du regard"
+          ],
+          "observations": [
+            "Un même intervalle peut correspondre à des valeurs différentes",
+            "Le niveau du bas du ménisque donne la lecture correcte"
+          ],
+          "deduction": "Compter les intervalles entre deux nombres permet de connaître la valeur d’une division.",
+          "explanation": "Une erreur d’angle du regard peut donner une lecture apparente erronée ; l’aide montre la bonne visée, sans modifier le volume réel.",
+          "application": "Lire trois nouvelles échelles puis marquer un niveau demandé, comme les compétences p.30.",
+          "correction_rules": [
+            "Pas=(valeur haute−valeur basse)/nombre d’intervalles",
+            "Accepter virgule/point et unités équivalentes",
+            "Tolérance liée au pas réellement affiché ; à spécifier par scénario"
+          ],
+          "model_limits": [
+            "Ménisque concave de l’eau uniquement",
+            "Pas de lecture valable sur une éprouvette fortement inclinée ou en débordement"
+          ]
+        },
+        {
+          "id": "M03-A03",
+          "title": "Mesurer un solide par déplacement d’eau",
+          "manual_pages": [
+            27,
+            29,
+            31,
+            32
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            51
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Éprouvette graduée",
+            "Eau",
+            "Caillou non poreux",
+            "Clé",
+            "Bloc de métal",
+            "Fil fin ou pince"
+          ],
+          "student_actions": [
+            "Lire V1",
+            "Introduire doucement le solide",
+            "Vérifier immersion complète",
+            "Lire V2",
+            "Calculer la différence"
+          ],
+          "variables": [
+            "Objet",
+            "Volume initial",
+            "Immersion partielle/complète"
+          ],
+          "observations": [
+            "Le niveau monte selon le volume immergé",
+            "Le niveau final représente eau et solide ensemble"
+          ],
+          "deduction": "Le volume du solide entièrement immergé est V2−V1.",
+          "explanation": "Le liquide ne devient pas plus abondant ; le solide occupe une partie de l’espace sous la surface.",
+          "application": "Déterminer le volume d’une clé nouvelle et expliquer pourquoi lire seulement V2 ne suffit pas.",
+          "correction_rules": [
+            "Vsolide=V2−V1 seulement après validation des conditions",
+            "Objet soluble, absorbant, flottant non immergé, bulle ou débordement : signaler que le résultat ne vaut pas le volume total"
+          ],
+          "model_limits": [
+            "Objets insolubles et non absorbants",
+            "Le fil a un volume négligeable explicitement indiqué",
+            "Aucune lecture inventée depuis la petite figure du livre"
+          ]
+        },
+        {
+          "id": "M03-A04",
+          "title": "Comparer mesure et calcul géométrique",
+          "manual_pages": [
+            28,
+            31,
+            32
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            52
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Règle graduée",
+            "Cube",
+            "Pavé droit",
+            "Cylindre",
+            "Sphère",
+            "Éprouvette",
+            "Réservoirs de formes différentes"
+          ],
+          "student_actions": [
+            "Mesurer les dimensions",
+            "Choisir la formule",
+            "Comparer avec l’immersion pour les objets compatibles",
+            "Transvaser un volume connu entre deux formes",
+            "Calculer capacité d’une piscine fictive"
+          ],
+          "variables": [
+            "Dimensions",
+            "Forme",
+            "Unités"
+          ],
+          "observations": [
+            "Doubler une longueur ne double pas toujours le volume",
+            "Un même volume peut donner des hauteurs différentes"
+          ],
+          "deduction": "Le calcul géométrique et le déplacement d’eau peuvent mesurer la même grandeur.",
+          "explanation": "Formules accessibles : c³ ; L×l×h ; πr²h ; 4πr³/3. Convertir les longueurs avant calcul.",
+          "application": "Résoudre un transvasement ou calculer le volume moyen d’une feuille à partir d’un livre.",
+          "correction_rules": [
+            "Rayon=diamètre/2",
+            "Exiger une unité de volume cohérente ; accepter m³, dm³, cm³, L ou mL après conversion. Si une unité particulière est demandée, distinguer valeur correcte et conversion restant à effectuer.",
+            "Pages et feuilles distinguées : deux pages par feuille pour un livre standard",
+            "Arrondi annoncé de π"
+          ],
+          "model_limits": [
+            "Volume extérieur d’un solide versus capacité intérieure d’un récipient explicités",
+            "Les dimensions exactes des petits dessins p.31 ne sont pas reprises dans nos scénarios"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "title": "Masse des solides et des liquides",
+      "manual_pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "central_question": "Comment peser un objet ou le contenu d’un récipient ?",
+      "activities": [
+        {
+          "id": "M04-A01",
+          "title": "Équilibrer une balance de Roberval",
+          "manual_pages": [
+            34,
+            35,
+            38,
+            39,
+            40
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            56,
+            58
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Balance de Roberval",
+            "Boîte de masses marquées",
+            "Objet compact",
+            "Verre",
+            "Jus"
+          ],
+          "student_actions": [
+            "Repérer l’équilibre à vide",
+            "Placer un objet sur un plateau",
+            "Ajouter/enlever des masses sur l’autre",
+            "Additionner à l’équilibre"
+          ],
+          "variables": [
+            "Masses choisies",
+            "Objet pesé"
+          ],
+          "observations": [
+            "Le côté de plus grande masse descend",
+            "À l’équilibre les deux masses totales sont égales"
+          ],
+          "deduction": "La masse inconnue se compare à des masses connues.",
+          "explanation": "Les plateaux restent horizontaux ; l’aiguille revient à sa position de référence. Différentes combinaisons de masses peuvent convenir.",
+          "application": "Trouver la masse d’un verre vide puis du jus, ou prévoir la pesée d’un lot d’objets identiques.",
+          "correction_rules": [
+            "Accepter toute combinaison disponible totalisant la masse requise",
+            "Somme avec unités",
+            "Une aiguille non revenue à sa référence n’est pas un équilibre"
+          ],
+          "model_limits": [
+            "Balance idéale sans frottement pour l’activité de base ; résolution liée aux plus petites masses",
+            "Ne pas imposer la stratégie décroissante comme unique réussite"
+          ]
+        },
+        {
+          "id": "M04-A02",
+          "title": "Peser et lire une masse",
+          "manual_pages": [
+            33,
+            35,
+            36,
+            38,
+            39
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            54,
+            55
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Balance électronique",
+            "Balance de cuisine à cadran",
+            "Solides de masses différentes"
+          ],
+          "student_actions": [
+            "Allumer",
+            "Vérifier zéro",
+            "Poser l’objet",
+            "Lire nombre et unité",
+            "Comparer deux affichages et convertir"
+          ],
+          "variables": [
+            "Objet",
+            "Résolution",
+            "Unité affichée"
+          ],
+          "observations": [
+            "Le nombre sans unité ne suffit pas",
+            "L’affichage peut être plus fin selon le modèle"
+          ],
+          "deduction": "Une mesure de masse utilise une balance et une unité.",
+          "explanation": "La précision est une propriété de l’instrument, pas une supériorité universelle de toute balance électronique.",
+          "application": "Lire un cadran nouveau et ranger plusieurs masses dans la même unité.",
+          "correction_rules": [
+            "Valeur tolérée selon graduation/résolution",
+            "1 kg=1000 g ; 1 t=1000 kg ; 1 q=100 kg",
+            "Ne pas convertir g en mL sans masse volumique"
+          ],
+          "model_limits": [
+            "Pas de mesure du poids en newtons dans cette activité",
+            "Surcharge explicitement signalée"
+          ]
+        },
+        {
+          "id": "M04-A03",
+          "title": "Mesurer seulement le contenu",
+          "manual_pages": [
+            36,
+            37,
+            39,
+            40
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            57,
+            58
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Balance électronique",
+            "Bécher",
+            "Bol",
+            "Eau",
+            "Farine",
+            "Jus",
+            "Bouton tare"
+          ],
+          "student_actions": [
+            "Peser le récipient vide",
+            "Verser et peser l’ensemble",
+            "Soustraire",
+            "Recommencer en tarant le récipient vide",
+            "Retirer le récipient après la tare"
+          ],
+          "variables": [
+            "Récipient",
+            "Quantité ajoutée",
+            "Moment de la tare"
+          ],
+          "observations": [
+            "Total=récipient+contenu",
+            "Tare avec récipient vide donne masse du contenu",
+            "Retirer la référence tarée produit un affichage négatif"
+          ],
+          "deduction": "La tare change la référence de l’affichage, pas la matière.",
+          "explanation": "L’afficheur indique masse actuelle moins masse mémorisée à la tare. Tarer après ajout de liquide ne permet pas d’en lire toute la masse.",
+          "application": "Choisir un protocole pour un solide divisé ; déterminer des masses par différences successives.",
+          "correction_rules": [
+            "Calculer la masse nette",
+            "Ne pas accepter masse totale comme masse du contenu",
+            "État de tare explicite et possibilité de recommencer"
+          ],
+          "model_limits": [
+            "Balance fermée au bilan masse ; pertes lors d’un versement affichées",
+            "Équivalence tare/soustraction seulement à système identique"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "title": "La masse volumique",
+      "manual_pages": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "central_question": "Pourquoi des objets de même volume n’ont-ils pas la même masse et ne flottent-ils pas tous ?",
+      "activities": [
+        {
+          "id": "M05-A01",
+          "title": "Mesurer plusieurs volumes d’une même eau",
+          "manual_pages": [
+            41,
+            42,
+            46
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            59,
+            63,
+            64
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Éprouvette",
+            "Balance avec tare",
+            "Eau",
+            "Tableau de mesures"
+          ],
+          "student_actions": [
+            "Mesurer plusieurs volumes",
+            "Peser la masse nette",
+            "Calculer m/V",
+            "Comparer doubles et moitiés"
+          ],
+          "variables": [
+            "Volume",
+            "Substance et température fixées"
+          ],
+          "observations": [
+            "La masse augmente proportionnellement au volume dans les conditions retenues",
+            "Le rapport m/V reste constant"
+          ],
+          "deduction": "La masse volumique mesure la masse par unité de volume.",
+          "explanation": "On construit le rapport à partir de mesures avant d’utiliser la formule. Eau à 1 g/mL est une approximation scolaire explicitée.",
+          "application": "Retrouver une masse ou un volume manquant et prédire après division d’un bloc homogène.",
+          "correction_rules": [
+            "ρ=m/V avec V>0",
+            "1 g/cm³=1000 kg/m³=1000 g/L",
+            "Erreur de conversion repérée indépendamment du raisonnement"
+          ],
+          "model_limits": [
+            "Pas de constante universelle indépendante de température",
+            "Le tableau p.42 exige de convertir mL vers L si la réponse est en g/L"
+          ]
+        },
+        {
+          "id": "M05-A02",
+          "title": "Comparer puis reconnaître des matériaux",
+          "manual_pages": [
+            43,
+            44,
+            46,
+            47,
+            48
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            60,
+            61,
+            62
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau",
+            "Lait",
+            "Huile",
+            "Cylindres bois, acier et aluminium",
+            "Balance",
+            "Éprouvette",
+            "Fiche de valeurs de référence"
+          ],
+          "student_actions": [
+            "Comparer des volumes égaux",
+            "Mesurer un échantillon inconnu parmi une liste",
+            "Trier par masse volumique",
+            "Recommencer à masse égale"
+          ],
+          "variables": [
+            "Matériau",
+            "Volume ou masse fixés",
+            "Unités"
+          ],
+          "observations": [
+            "À volume égal, la masse la plus grande correspond à la plus grande masse volumique",
+            "Une masse seule ne suffit pas pour comparer des matériaux"
+          ],
+          "deduction": "Le rapport permet une comparaison indépendante de la taille de l’échantillon.",
+          "explanation": "Le manuel montre 20 cm³ de bois, acier et aluminium, avec 13 g, 156 g et 54 g p.44 : les rapports sont 0,65 ; 7,8 ; 2,7 g/cm³. Les valeurs restent des références du scénario.",
+          "application": "Déterminer si un objet est compatible avec un matériau annoncé, sans prétendre certifier sa composition.",
+          "correction_rules": [
+            "Comparer dans les mêmes unités",
+            "Référence avec tolérance explicitée",
+            "Ne pas identifier avec certitude un matériau hors de la liste connue"
+          ],
+          "model_limits": [
+            "Bois, lait, huile et plastique n’ont pas chacun une masse volumique universelle",
+            "Mercure/essence du livre restent des données documentaires, pas des manipulations domestiques"
+          ]
+        },
+        {
+          "id": "M05-A03",
+          "title": "Prévoir puis tester flotte ou coule",
+          "manual_pages": [
+            44,
+            45,
+            47,
+            48
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Cristallisoir",
+            "Eau",
+            "Échantillons définis de bois, verre, plastique, liège, fer et cuivre",
+            "Liquides non miscibles de densités données"
+          ],
+          "student_actions": [
+            "Mesurer ou consulter masse et volume",
+            "Prévoir",
+            "Déposer les solides",
+            "Comparer leur position",
+            "Superposer deux liquides non miscibles"
+          ],
+          "variables": [
+            "Matériau",
+            "Liquide",
+            "Volume des objets",
+            "Masse volumique"
+          ],
+          "observations": [
+            "Un gros objet peu dense peut flotter quand un petit métal coule",
+            "Le liquide non miscible moins dense occupe la couche supérieure"
+          ],
+          "deduction": "Pour les objets homogènes pleins du modèle, comparer les masses volumiques explique la flottabilité.",
+          "explanation": "Flotter ne signifie pas rester entièrement hors de l’eau. Changer la taille seule ne renverse pas le résultat pour un matériau homogène identique.",
+          "application": "Défi : choisir un objet qui flotte malgré une masse plus élevée qu’un objet qui coule.",
+          "correction_rules": [
+            "ρobjet<ρliquide : flotte ; > : coule ; = : équilibre immergé idéal",
+            "Liquides : exiger non-miscibilité pour conclure sur deux couches",
+            "Conserver les masses dans une superposition"
+          ],
+          "model_limits": [
+            "Objets non creux, insolubles, sans absorption ni tension superficielle dominante",
+            "Bateaux hors de ce modèle initial",
+            "Pour un mélange hétérogène, distinguer masse volumique moyenne de l’ensemble et celle de chaque phase",
+            "À l’équilibre d’un solide homogène flottant, V immergé / V objet = ρ objet / ρ liquide. Règle interne de dessin et de volume déplacé, sans formule supplémentaire imposée à l’élève. La cuve doit permettre une flottabilité sans contact avec son fond."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "title": "La pression et la pression atmosphérique",
+      "manual_pages": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "central_question": "Comment rendre visible l’action de l’air et mesurer sa pression ?",
+      "activities": [
+        {
+          "id": "M06-A01",
+          "title": "Relier la seringue au manomètre",
+          "manual_pages": [
+            49,
+            50,
+            51,
+            52,
+            54,
+            55
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            66,
+            68,
+            70
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Seringue graduée",
+            "Tuyau étanche",
+            "Manomètre à aiguille puis numérique",
+            "Air",
+            "Bouchon"
+          ],
+          "student_actions": [
+            "Connecter l’embout",
+            "Lire volume et pression",
+            "Comprimer/détendre",
+            "Comparer avec une fuite ouverte",
+            "Changer l’unité affichée"
+          ],
+          "variables": [
+            "Volume total gaz seringue+tuyau",
+            "Quantité et température maintenues dans le cas fermé",
+            "Fuite"
+          ],
+          "observations": [
+            "Quand le volume diminue à quantité et température fixes, la pression augmente",
+            "Ouvrir permet un retour vers la pression ambiante"
+          ],
+          "deduction": "La pression est liée à l’action du gaz sur les surfaces, même lorsque le gaz est invisible.",
+          "explanation": "La pression n’est pas le volume. Un capteur absolu donne la pression totale ; un capteur relatif compare à l’atmosphère. Le choix doit être explicitement affiché.",
+          "application": "Diagnostiquer une seringue non étanche et lire une double graduation bar/hPa.",
+          "correction_rules": [
+            "Sens de variation correct sous conditions fixées",
+            "1 hPa=100 Pa ; 1 bar=100000 Pa",
+            "Ne pas afficher zéro absolu à l’air libre",
+            "Bornes de calibre respectées"
+          ],
+          "model_limits": [
+            "Pas de V=0",
+            "Modèle quantitatif interne éventuel à température fixée non exigé comme loi à apprendre",
+            "Ne pas confondre quantité d’air injectée et son volume comprimé"
+          ]
+        },
+        {
+          "id": "M06-A02",
+          "title": "Faire agir l’air extérieur",
+          "manual_pages": [
+            50,
+            51,
+            55
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            67
+          ],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Verre rempli d’eau",
+            "Plaque de plastique",
+            "Ventouse",
+            "Vitre",
+            "Bidon métallique virtuel",
+            "Pompe à vide virtuelle",
+            "Pipette avec poire"
+          ],
+          "student_actions": [
+            "Retourner le verre couvert",
+            "Afficher les actions sur la plaque",
+            "Appuyer une ventouse puis laisser entrer l’air",
+            "Retirer de l’air du bidon",
+            "Boucher/déboucher le haut d’une pipette virtuelle"
+          ],
+          "variables": [
+            "Étanchéité",
+            "Pression intérieure/extérieure",
+            "Ouverture"
+          ],
+          "observations": [
+            "La plaque peut tenir",
+            "La ventouse se détache quand l’air entre",
+            "Un bidon assez déformable peut s’écraser sous la pression extérieure"
+          ],
+          "deduction": "C’est une différence de pression qui produit les effets observés.",
+          "explanation": "Le vide n’aspire pas comme une substance ; l’air extérieur exerce une action. Pour le verre, l’étanchéité et les conditions mécaniques de la plaque comptent.",
+          "application": "Choisir l’explication d’une ventouse qui se détache ou d’une pipette qui se vide.",
+          "correction_rules": [
+            "Relier ouverture à égalisation des pressions",
+            "Ne pas attribuer la tenue à une absence de gravité",
+            "Distinguer action de l’eau et action de l’air"
+          ],
+          "model_limits": [
+            "Modèles explicatifs scénarisés : pas de calcul universel d’adhérence ou de déformation",
+            "Bidon/pompe virtuels ; pipette jamais aspirée à la bouche"
+          ]
+        },
+        {
+          "id": "M06-A03",
+          "title": "Comparer des pressions atmosphériques",
+          "manual_pages": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            69,
+            70
+          ],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Baromètre à cadran",
+            "Schéma du baromètre de Torricelli",
+            "Paysage mer/montagne",
+            "Bouteille fermée déformable"
+          ],
+          "student_actions": [
+            "Lire un baromètre",
+            "Déplacer le repère d’altitude",
+            "Comparer bouteille fermée puis ouverte",
+            "Relier colonne de mercure et pression dans un schéma"
+          ],
+          "variables": [
+            "Altitude",
+            "Pression ambiante choisie",
+            "État ouvert/fermé"
+          ],
+          "observations": [
+            "La pression atmosphérique diminue généralement avec l’altitude",
+            "Une bouteille fermée en altitude peut se déformer à la descente"
+          ],
+          "deduction": "L’atmosphère exerce une pression mesurable qui varie.",
+          "explanation": "La colonne de Torricelli est un document historique ; les 76 cm représentent une différence de hauteur. Utiliser environ 1013 hPa dans les scénarios scolaires.",
+          "application": "Choisir baromètre/manomètre selon la mesure et convertir une valeur nouvelle.",
+          "correction_rules": [
+            "Séparer bar et atmosphère : approximation annoncée, pas égalité exacte",
+            "La pression réelle au niveau de la mer n’est pas toujours 1013 hPa",
+            "Comparer hauteur de colonne, pas longueur totale du tube"
+          ],
+          "model_limits": [
+            "Mercure documentaire seulement",
+            "Pas de calcul de météo ni d’étalonnage réel",
+            "Date de Torricelli imprimée erronée omise"
+          ]
+        },
+        {
+          "id": "M06-A04",
+          "title": "Montrer que l’air occupe une place et possède une masse",
+          "manual_pages": [
+            54,
+            56
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Verre",
+            "Bac d’eau",
+            "Bouteille d’air virtuelle",
+            "Balance",
+            "Plan de salle",
+            "Pompe et pneu virtuels"
+          ],
+          "student_actions": [
+            "Plonger un verre retourné puis l’incliner",
+            "Observer les bulles",
+            "Comparer les masses d’une bouteille avant/après sortie d’air dans un scénario",
+            "Calculer un volume d’air disponible"
+          ],
+          "variables": [
+            "Ouverture",
+            "Quantité d’air",
+            "Volume du local moins meubles"
+          ],
+          "observations": [
+            "L’air initialement présent empêche l’eau de remplir immédiatement tout le verre",
+            "Une bouteille perd de la masse lorsqu’elle perd de l’air"
+          ],
+          "deduction": "Un verre dit vide contient généralement de l’air ; l’air est de la matière.",
+          "explanation": "Les volumes d’air comparés doivent être rapportés aux mêmes conditions de pression et température.",
+          "application": "Calculer une masse d’air avec la valeur de masse par litre donnée pour le scénario.",
+          "correction_rules": [
+            "Soustraction des masses du même contenant",
+            "Vair=Vsalle−Vmeubles",
+            "Pas d’emploi de densité constante entre air comprimé et air ambiant"
+          ],
+          "model_limits": [
+            "Adaptation des exercices en expérience guidée",
+            "La plongée p.56 reste un contexte documentaire ; aucun calculateur de paliers ni conseil de plongée",
+            "Pesée de l’air : bouteille rigide de volume extérieur fixe, même enveloppe et accessoires pesés ; seule la quantité d’air change.",
+            "Le volume des meubles soustrait représente le volume excluant réellement l’air. Une estimation scolaire de 10 % doit être annoncée ; ne pas confondre enveloppe extérieure d’un meuble creux et volume occupé par sa matière."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "title": "Le modèle particulaire de la matière",
+      "manual_pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "central_question": "Quel modèle explique les comportements observés sans être une photographie de la matière ?",
+      "activities": [
+        {
+          "id": "M07-A01",
+          "title": "Passer d’une observation à un modèle",
+          "manual_pages": [
+            57,
+            58,
+            59,
+            60,
+            61
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            71,
+            72,
+            73
+          ],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Récipient réel représenté",
+            "Jetons particulaires",
+            "Vues solide/liquide/gaz",
+            "Légende des symboles"
+          ],
+          "student_actions": [
+            "Choisir un état observé",
+            "Organiser les jetons",
+            "Activer une animation",
+            "Comparer la description obtenue à la propriété macroscopique"
+          ],
+          "variables": [
+            "État représenté",
+            "Arrangement",
+            "Mobilité",
+            "Type de représentation"
+          ],
+          "observations": [
+            "Solide : voisins conservés",
+            "Liquide : proches mais voisins changeants",
+            "Gaz : particules éloignées occupant l’espace"
+          ],
+          "deduction": "La disposition et la mobilité du modèle expliquent des propriétés différentes.",
+          "explanation": "Les symboles ne montrent ni la vraie couleur ni la forme des particules. Pour le solide simple, elles vibrent autour de positions ; ne pas enseigner une immobilité absolue.",
+          "application": "Associer une scène nouvelle à une représentation et expliquer forme propre ou écoulement.",
+          "correction_rules": [
+            "Évaluer proximité, arrangement et mobilité plutôt que reconnaître une couleur",
+            "Ne pas exiger un nombre exact de jetons pour reconnaître un état",
+            "Identiques seulement si même substance pure dans ce modèle"
+          ],
+          "model_limits": [
+            "Le solide ordonné est un modèle introductif, pas tous les solides amorphes",
+            "Vue 2D simplifiée, proportions non à l’échelle",
+            "Le sable visible n’est pas un dessin de particules microscopiques"
+          ]
+        },
+        {
+          "id": "M07-A02",
+          "title": "Comprimer sans détruire ni faire grossir les particules",
+          "manual_pages": [
+            61,
+            62
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            74
+          ],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Seringue virtuelle",
+            "Jetons de gaz",
+            "Compteur de particules",
+            "Manomètre",
+            "Parois avec collisions illustrées"
+          ],
+          "student_actions": [
+            "Fermer la seringue",
+            "Comprimer puis détendre",
+            "Comparer nombre, taille et espacement",
+            "Réparer deux modèles volontairement faux"
+          ],
+          "variables": [
+            "Volume",
+            "Ouverture",
+            "Quantité constante fermé"
+          ],
+          "observations": [
+            "L’espacement change",
+            "Le nombre et la taille ne changent pas",
+            "Les chocs sur les parois se modifient"
+          ],
+          "deduction": "Le gaz se comprime parce que les espaces entre particules peuvent diminuer.",
+          "explanation": "La pression résulte des actions des particules sur les parois. Le comptage graphique est une représentation d’un nombre réel immense.",
+          "application": "Corriger un schéma où des particules disparaissent ou grossissent pendant la compression.",
+          "correction_rules": [
+            "Nombre et taille conservés en système fermé",
+            "Ne pas valider un amas compact immobile pour le gaz",
+            "Compression ne transforme pas automatiquement en liquide"
+          ],
+          "model_limits": [
+            "Collision animation qualitative ; pas de fidélité statistique revendiquée",
+            "Les conditions thermiques sont contrôlées et affichées"
+          ]
+        },
+        {
+          "id": "M07-A03",
+          "title": "Lire une légende : corps pur ou mélange",
+          "manual_pages": [
+            57,
+            58,
+            61,
+            62
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Jetons d’eau et sucre",
+            "Jetons représentant deux constituants de l’air",
+            "Bécher",
+            "Légende persistante"
+          ],
+          "student_actions": [
+            "Choisir les familles de particules",
+            "Identifier corps pur/mélange",
+            "Comparer liquide dans le bécher et gaz autour",
+            "Relier couleur à espèce représentée"
+          ],
+          "variables": [
+            "Composition",
+            "État",
+            "Convention graphique"
+          ],
+          "observations": [
+            "Plusieurs familles représentent plusieurs constituants",
+            "L’air autour du bécher est encore de la matière",
+            "Un gaz peut être un mélange"
+          ],
+          "deduction": "État physique et composition sont deux classements différents.",
+          "explanation": "Les couleurs sont des codes et doivent conserver le même sens dans toute la scène. L’eau sucrée de p.62 annonce les mélanges sans supprimer le sucre du modèle.",
+          "application": "Distinguer gaz pur, mélange gazeux et solution dans des schémas originaux.",
+          "correction_rules": [
+            "Une famille pour un corps pur dans le modèle retenu",
+            "Ne pas noter une explication libre par mots-clés",
+            "Composition conservée entre vue macro et modèle"
+          ],
+          "model_limits": [
+            "Introduction seulement ; dissolution détaillée dans M12",
+            "Pas de nombres de particules interprétés comme quantités chimiques réelles"
+          ]
+        },
+        {
+          "id": "M07-A04",
+          "title": "Pourquoi un ballon chauffé devient-il plus dur ?",
+          "manual_pages": [
+            62
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Ballon virtuel",
+            "Jetons de gaz",
+            "Commande de température",
+            "Indicateur qualitatif de pression"
+          ],
+          "student_actions": [
+            "Comparer état frais et réchauffé",
+            "Observer agitation et collisions",
+            "Séparer température et quantité d’air"
+          ],
+          "variables": [
+            "Température",
+            "Quantité fixe",
+            "Volume approximativement fixe dans la comparaison"
+          ],
+          "observations": [
+            "L’agitation et l’effet sur la paroi augmentent dans le cas comparé"
+          ],
+          "deduction": "Il faut enrichir le modèle par l’agitation thermique.",
+          "explanation": "Le prolongement du manuel demande d’améliorer le modèle. Une enveloppe réelle peut aussi se dilater ; le scénario doit annoncer ce qui reste fixe.",
+          "application": "Identifier quel changement de modèle explique l’observation sans gonfler les particules.",
+          "correction_rules": [
+            "Taille/nombre inchangés",
+            "Relier température à agitation et non à identité des particules"
+          ],
+          "model_limits": [
+            "Prolongement qualitatif, pas une loi quantitative à apprendre",
+            "Pas de chauffage réel d’un récipient fermé"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M08",
+      "title": "Chaleur et température",
+      "manual_pages": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "central_question": "Comment mesurer une température et comprendre ce qui change quand on chauffe ?",
+      "activities": [
+        {
+          "title": "Bien placer et lire un thermomètre",
+          "manual_pages": [
+            63,
+            64,
+            65,
+            66,
+            69
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            77
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bécher",
+            "Eau",
+            "Thermomètre à liquide",
+            "Thermomètre à sonde",
+            "Repère de position de l’œil"
+          ],
+          "student_actions": [
+            "Choisir le thermomètre",
+            "Immerger le réservoir sans toucher le fond",
+            "Déplacer l’œil",
+            "Attendre ou accélérer la stabilisation",
+            "Lire avec unité"
+          ],
+          "variables": [
+            "Immersion",
+            "Contact avec fond",
+            "Position œil",
+            "Température eau",
+            "Type et échelle instrument"
+          ],
+          "observations": [
+            "Colonne monte ou descend puis se stabilise",
+            "Lecture oblique trompeuse",
+            "Sonde fournit un nombre avec unité"
+          ],
+          "deduction": "Une mesure dépend du placement, de la stabilisation et de la lecture.",
+          "explanation": "Le thermomètre échange de l’énergie avec le milieu ; on lit la température une fois stabilisé.",
+          "application": "Diagnostiquer trois mesures mal réalisées puis lire un thermomètre avec valeurs négatives.",
+          "correction_rules": [
+            "Vérifier séparément immersion, absence contact fond, stabilité, œil à hauteur du sommet de colonne",
+            "Accepter virgule/point et °C",
+            "Tolérance liée à la division choisie"
+          ],
+          "model_limits": [
+            "Un affichage numérique ne garantit pas une exactitude absolue",
+            "Temps accéléré facultatif ; pas de pause imposée"
+          ],
+          "id": "M08-A01"
+        },
+        {
+          "title": "Chauffer puis laisser refroidir",
+          "manual_pages": [
+            66,
+            67,
+            68
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bécher",
+            "Eau",
+            "Plaque chauffante virtuelle",
+            "Thermomètre à liquide",
+            "Flèches de transfert thermique"
+          ],
+          "student_actions": [
+            "Relever l’état initial",
+            "Chauffer",
+            "Couper le chauffage",
+            "Observer et comparer"
+          ],
+          "variables": [
+            "Chauffage actif",
+            "Température ambiante",
+            "Temps"
+          ],
+          "observations": [
+            "La température de l’eau augmente puis se rapproche de celle de la pièce après arrêt"
+          ],
+          "deduction": "La chaleur est un transfert ; la température décrit l’état thermique.",
+          "explanation": "Dans cette expérience sans changement d’état, recevoir de la chaleur augmente la température et en céder la diminue.",
+          "application": "Associer le sens des échanges aux trois états du montage.",
+          "correction_rules": [
+            "Flèche du corps plus chaud vers le plus froid",
+            "Ne jamais proposer « transfert de température »",
+            "À égalité des températures : pas de transfert thermique net"
+          ],
+          "model_limits": [
+            "Limiter ce scénario à l’eau liquide hors ébullition",
+            "Le manuel utilise 20, 60 et 30 °C comme états illustratifs ; pas une chronologie universelle"
+          ],
+          "id": "M08-A02"
+        },
+        {
+          "title": "Deux eaux en contact thermique",
+          "manual_pages": [
+            70
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bécher",
+            "Tube à essai",
+            "Eau",
+            "Thermomètre à sonde",
+            "Flèches de transfert thermique"
+          ],
+          "student_actions": [
+            "Plonger un tube d’eau dans un bain d’eau",
+            "Choisir les températures initiales",
+            "Comparer les températures finales"
+          ],
+          "variables": [
+            "Températures initiales",
+            "Masses d’eau identiques ou indiquées"
+          ],
+          "observations": [
+            "Deux températures différentes évoluent vers une valeur commune",
+            "À températures initiales égales rien ne change"
+          ],
+          "deduction": "L’équilibre thermique correspond à une même température.",
+          "explanation": "La direction spontanée du transfert dépend de la différence des températures.",
+          "application": "Prévoir le sens des échanges pour trois nouvelles paires.",
+          "correction_rules": [
+            "Vérifier égalité finale",
+            "La moyenne arithmétique n’est admise que pour masses/capacités thermiques égales et récipient négligé"
+          ],
+          "model_limits": [
+            "Modèle idéal explicitement indiqué ; ne pas imposer une moyenne si les quantités sont différentes"
+          ],
+          "id": "M08-A03"
+        },
+        {
+          "title": "Choisir son instrument et expliquer un séchage",
+          "manual_pages": [
+            70,
+            71
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Cartes de thermomètres",
+            "Linge humide",
+            "Commandes soleil, vent et humidité"
+          ],
+          "student_actions": [
+            "Choisir une plage de mesure",
+            "Comparer trois conditions de séchage",
+            "Convertir un exemple °C/°F avec relation donnée"
+          ],
+          "variables": [
+            "Plage instrument",
+            "Température air",
+            "Vent",
+            "Humidité"
+          ],
+          "observations": [
+            "Instrument hors plage inutilisable",
+            "Séchage possible à l’ombre et plus ou moins rapide"
+          ],
+          "deduction": "L’évaporation ne nécessite pas l’ébullition ; la plage du thermomètre doit convenir.",
+          "explanation": "Les facteurs favorisant l’évaporation sont comparés qualitativement ; Fahrenheit reste un prolongement.",
+          "application": "Choisir un instrument pour air froid et eau chaude, expliquer le séchage hivernal.",
+          "correction_rules": [
+            "Respecter minimum/maximum",
+            "Relation fournie °F=1,8×°C+32",
+            "Ne pas attribuer une saison certaine à une seule mesure"
+          ],
+          "model_limits": [
+            "Animation comparative qualitative, pas prévision météorologique",
+            "Mercure uniquement comme document historique"
+          ],
+          "id": "M08-A04"
+        }
+      ]
+    },
+    {
+      "id": "M09",
+      "title": "Les changements d’état",
+      "manual_pages": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "central_question": "Que deviennent l’état, la masse et le volume de l’eau quand on chauffe ou refroidit ?",
+      "activities": [
+        {
+          "title": "Faire fondre puis solidifier",
+          "manual_pages": [
+            72,
+            73,
+            74
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            81
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Tube à essai",
+            "Eau et glace",
+            "Bain d’eau tiède",
+            "Bain réfrigérant glace-sel",
+            "Thermomètre",
+            "Agitateur"
+          ],
+          "student_actions": [
+            "Placer la glace dans le bain tiède",
+            "Suivre état et température",
+            "Placer l’eau dans le bain froid",
+            "Comparer"
+          ],
+          "variables": [
+            "Température bain",
+            "État initial",
+            "Durée"
+          ],
+          "observations": [
+            "Glace puis glace+eau puis eau",
+            "Pour eau pure à pression normale, palier proche de 0 °C durant coexistence"
+          ],
+          "deduction": "Fusion et solidification sont inverses ; le transfert peut changer l’état sans changer la température.",
+          "explanation": "La chaleur reçue pendant la fusion transforme la glace ; après disparition de la glace la température peut monter.",
+          "application": "Classer neige fondante, verglas et glaçons dans une boisson.",
+          "correction_rules": [
+            "Identifier état de départ et arrivée",
+            "Associer chaleur reçue à fusion, cédée à solidification",
+            "Ne pas exiger une hausse pendant palier"
+          ],
+          "model_limits": [
+            "Eau pure, pression fixée, surfusion non simulée",
+            "Bain glace-sel distinct de l’eau pure du tube"
+          ],
+          "id": "M09-A01"
+        },
+        {
+          "title": "Évaporer, faire bouillir, condenser",
+          "manual_pages": [
+            74,
+            75,
+            77,
+            79
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Ballon",
+            "Eau",
+            "Chauffe-ballon virtuel",
+            "Soucoupe froide",
+            "Thermomètre",
+            "Vue vapeur et gouttelettes"
+          ],
+          "student_actions": [
+            "Chauffer l’eau",
+            "Comparer départ en surface et bulles d’ébullition",
+            "Approcher la soucoupe froide",
+            "Couper chauffage"
+          ],
+          "variables": [
+            "Chauffage",
+            "Température surface froide",
+            "Pression fixée"
+          ],
+          "observations": [
+            "Évaporation avant ébullition",
+            "Ébullition vers 100 °C à pression normale",
+            "Gouttes sur surface froide"
+          ],
+          "deduction": "La vaporisation produit un gaz ; la liquéfaction redonne un liquide.",
+          "explanation": "La vapeur d’eau est invisible ; le nuage visible contient des gouttelettes.",
+          "application": "Expliquer buée sur vitre et linge qui sèche.",
+          "correction_rules": [
+            "Distinguer évaporation/ébullition",
+            "Nommer liquéfaction ou condensation liquide",
+            "Accepter la condensation sur une vitre seulement si le scénario fournit une vapeur suffisamment abondante et une surface à une température permettant sa condensation."
+          ],
+          "model_limits": [
+            "Ne pas enseigner que toute condensation arrive à 100 °C : vapeur mêlée à l’air et vapeur pure diffèrent",
+            "Chauffage uniquement virtuel",
+            "La soucoupe froide est exposée à la vapeur du montage. Pour une vitre avec air ambiant, fixer des conditions favorables explicites ; si humidité et températures sont réglables, comparer température de surface et point de rosée."
+          ],
+          "id": "M09-A02"
+        },
+        {
+          "title": "Peser et repérer le volume avant et après",
+          "manual_pages": [
+            75,
+            76,
+            77,
+            78
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            85
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Éprouvette",
+            "Balance électronique",
+            "Eau et glace",
+            "Repère de niveau",
+            "Bouchon"
+          ],
+          "student_actions": [
+            "Peser le système",
+            "Repérer le niveau",
+            "Solidifier",
+            "Essuyer virtuellement extérieur",
+            "Peser puis faire fondre"
+          ],
+          "variables": [
+            "État",
+            "Système conservé",
+            "Tare"
+          ],
+          "observations": [
+            "Même masse totale",
+            "Niveau plus haut pour glace d’eau puis baisse à fusion"
+          ],
+          "deduction": "La masse est conservée ; le volume de l’eau augmente à solidification.",
+          "explanation": "Conserver toute la matière et le même récipient permet une comparaison juste.",
+          "application": "Corriger un dessin où masse et niveau sont tous deux faux.",
+          "correction_rules": [
+            "Même masse avant/après à résolution près",
+            "Comparer volume selon état",
+            "Ne pas généraliser augmentation de volume à toutes les substances"
+          ],
+          "model_limits": [
+            "Éprouvette non chauffée fermée ; transformation virtuelle",
+            "Volume de glace pas un ménisque liquide",
+            "Aucune valeur de volume déduite sans densité fournie"
+          ],
+          "id": "M09-A03"
+        },
+        {
+          "title": "Pression, sel et vie quotidienne",
+          "manual_pages": [
+            79,
+            80
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Cartes cycle de l’eau",
+            "Autocuiseur en coupe",
+            "Bouteille de gaz en coupe",
+            "Bouteille d’eau congelée",
+            "Boisson et glaçons"
+          ],
+          "student_actions": [
+            "Relier phénomène et changement d’état",
+            "Modifier pression sur un scénario expliqué",
+            "Observer effet du sel et du refroidissement"
+          ],
+          "variables": [
+            "Pression",
+            "Présence de sel",
+            "Isolation de boisson"
+          ],
+          "observations": [
+            "Pression accrue élève température d’ébullition de l’eau",
+            "Sel abaisse début de gel dans les cas proposés",
+            "Glaçons absorbent de l’énergie"
+          ],
+          "deduction": "Température et pression influencent l’état ; les conditions doivent être précisées.",
+          "explanation": "La soupape limite la pression du modèle d’autocuiseur ; la bouteille de gaz montre un équilibre liquide-vapeur.",
+          "application": "Expliquer bouteille qui se déforme au gel et maintien d’une boisson fraîche.",
+          "correction_rules": [
+            "Associer correctement pression accrue et ébullition plus haute",
+            "Pas de température exacte du bain salé sans composition",
+            "Pas de 120 °C universel pour toute soupape"
+          ],
+          "model_limits": [
+            "Exploration documentaire exclusivement pour appareil sous pression",
+            "Pas de construction réelle",
+            "Valeurs spécifiques non nécessaires"
+          ],
+          "id": "M09-A04"
+        }
+      ]
+    },
+    {
+      "id": "M10",
+      "title": "Modèle particulaire et transformations physiques de la matière",
+      "manual_pages": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "central_question": "Comment expliquer les changements observés avec un modèle de particules ?",
+      "activities": [
+        {
+          "title": "Relier états observés et modèle",
+          "manual_pages": [
+            81,
+            82
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Récipient",
+            "Vue particulaire",
+            "Eau et glace",
+            "Étiquettes état"
+          ],
+          "student_actions": [
+            "Associer une photo/scène à un modèle",
+            "Afficher ou masquer les particules",
+            "Comparer organisation et mobilité"
+          ],
+          "variables": [
+            "État",
+            "Vue macroscopique ou modèle"
+          ],
+          "observations": [
+            "Solide ordonné avec vibrations",
+            "Liquide proche et mobile",
+            "Gaz dispersé dans tout le volume"
+          ],
+          "deduction": "Les particules d’une même substance restent de même nature ; leur organisation diffère.",
+          "explanation": "Les sphères sont une convention de représentation à échelle non réelle.",
+          "application": "Repérer un gaz représenté à tort uniquement au fond.",
+          "correction_rules": [
+            "Ne pas confondre particules immobiles et positions moyennes fixes",
+            "Gaz occupe tout le volume accessible"
+          ],
+          "model_limits": [
+            "Solides cristallins choisis ; pas généralisation ordre à tous solides",
+            "Pas de taille réelle des particules"
+          ],
+          "id": "M10-A01"
+        },
+        {
+          "title": "Faire évoluer le modèle en chauffant et refroidissant",
+          "manual_pages": [
+            82,
+            83,
+            84,
+            85
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            154
+          ],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Vue particulaire",
+            "Commande thermique",
+            "Thermomètre",
+            "Compteur de particules"
+          ],
+          "student_actions": [
+            "Chauffer",
+            "Observer un changement d’état",
+            "Refroidir",
+            "Compter avant et après"
+          ],
+          "variables": [
+            "Apport/retrait thermique",
+            "État",
+            "Température"
+          ],
+          "observations": [
+            "Identité et nombre inchangés",
+            "Organisation change",
+            "Gaz plus dispersé que liquide"
+          ],
+          "deduction": "Un changement physique ne crée ni détruit les particules du système fermé.",
+          "explanation": "Le modèle relie l’état au mouvement et à l’organisation ; à un palier la température ne grimpe pas continuellement.",
+          "application": "Dessiner la transformation inverse puis comparer aux critères.",
+          "correction_rules": [
+            "Même nombre, masse et taille symbolique",
+            "Correspondance des noms fusion/solidification/vaporisation/liquéfaction",
+            "Limiter hausse agitation aux hausses de température"
+          ],
+          "model_limits": [
+            "Pour l’eau, la glace est moins dense ; ne pas appliquer un resserrement universel à solidification",
+            "Les quatre changements du cours sont prioritaires",
+            "Sublimation non exigée pour combler une flèche ambiguë"
+          ],
+          "id": "M10-A02"
+        },
+        {
+          "title": "Réparer un modèle incorrect",
+          "manual_pages": [
+            86,
+            87,
+            88
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Quatre flacons fermés",
+            "Vue particulaire",
+            "Outil de comparaison"
+          ],
+          "student_actions": [
+            "Comparer deux états du même échantillon",
+            "Signaler particules manquantes ou gaz localisé",
+            "Corriger une représentation"
+          ],
+          "variables": [
+            "Nombre symbolique",
+            "Répartition spatiale",
+            "Substance choisie"
+          ],
+          "observations": [
+            "Certains dessins changent le nombre de particules ou concentrent le gaz au fond"
+          ],
+          "deduction": "Un modèle doit rester cohérent avec conservation et occupation de l’espace.",
+          "explanation": "Changer seulement l’organisation et le mouvement permet d’expliquer la transformation physique.",
+          "application": "Appliquer aux données d’une substance différente sans supposer les seuils de l’eau.",
+          "correction_rules": [
+            "Accepter critique des deux défauts p.86",
+            "Ne pas noter la qualité graphique libre automatiquement",
+            "Données de substance fournies explicitement"
+          ],
+          "model_limits": [
+            "p.87 flèches solide→gaz possibles ambiguës hors quatre transformations ; demander un trajet via liquide",
+            "Température alcool du scan non utilisée comme constante universelle"
+          ],
+          "id": "M10-A03"
+        }
+      ]
+    },
+    {
+      "id": "M11",
+      "title": "Mélanges homogènes et mélanges hétérogènes",
+      "manual_pages": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "central_question": "Que peut-on déduire en observant un mélange avant agitation, après agitation et au repos ?",
+      "activities": [
+        {
+          "title": "Préparer et classer des mélanges",
+          "manual_pages": [
+            89,
+            90,
+            91,
+            94,
+            95
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            89
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau",
+            "Sirop de menthe",
+            "Jus avec pulpe",
+            "Tubes à essai",
+            "Agitateur"
+          ],
+          "student_actions": [
+            "Verser",
+            "Agiter",
+            "Observer et nommer les constituants visibles"
+          ],
+          "variables": [
+            "Substances",
+            "Quantités compatibles",
+            "Repos"
+          ],
+          "observations": [
+            "Sirop réparti uniformément",
+            "Pulpe visible dans liquide"
+          ],
+          "deduction": "Homogène signifie constituants non distingués à l’échelle précisée.",
+          "explanation": "Un mélange contient plusieurs substances même lorsqu’il paraît uniforme.",
+          "application": "Classer eau minérale, jus avec pulpe et solution colorée.",
+          "correction_rules": [
+            "Classer l’état affiché et non la marque",
+            "Ne pas assimiler transparent/incolore/pur"
+          ],
+          "model_limits": [
+            "Échelle œil nu annoncée ; pas de recette exhaustive de boisson"
+          ],
+          "id": "M11-A01"
+        },
+        {
+          "title": "Agiter des liquides puis laisser reposer",
+          "manual_pages": [
+            91,
+            92,
+            94,
+            95,
+            96,
+            97,
+            98
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            90
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau",
+            "Huile",
+            "Éthanol virtuel",
+            "Vinaigre",
+            "Glycérine",
+            "Tubes à essai",
+            "Vue particulaire"
+          ],
+          "student_actions": [
+            "Choisir une paire",
+            "Agiter",
+            "Accélérer ou laisser le repos",
+            "Comparer les couches"
+          ],
+          "variables": [
+            "Paire substances",
+            "Temps depuis agitation",
+            "Densités fournies"
+          ],
+          "observations": [
+            "Eau+éthanol une phase",
+            "Eau+huile gouttelettes puis deux couches",
+            "Eau+vinaigre une phase aqueuse"
+          ],
+          "deduction": "Agiter deux liquides non miscibles crée une émulsion, pas une miscibilité.",
+          "explanation": "Les couches se répartissent selon densité et miscibilité ; ajouter un troisième liquide exige de considérer ses affinités.",
+          "application": "Prévoir eau+huile+vinaigre et corriger l’idée de trois couches obligatoires.",
+          "correction_rules": [
+            "Évaluer miscibilité après repos",
+            "Ne pas empiler automatiquement tous les liquides par densité",
+            "Eau+glycérine appartient à même phase dans cas prévu"
+          ],
+          "model_limits": [
+            "Table de couples documentés ; pas mélange universel",
+            "Ne pas implémenter pétrole+huile de p.95 comme deux couches certaines"
+          ],
+          "id": "M11-A02"
+        },
+        {
+          "title": "Gaz visible ou dissous dans une boisson",
+          "manual_pages": [
+            93,
+            94,
+            96
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            91,
+            96
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bouteille d’eau gazeuse",
+            "Bouchon",
+            "Balance",
+            "Vue gaz dissous et bulles"
+          ],
+          "student_actions": [
+            "Observer avant ouverture",
+            "Ouvrir",
+            "Agiter",
+            "Laisser dégazer",
+            "Comparer masse"
+          ],
+          "variables": [
+            "Ouvert/fermé",
+            "Agitation",
+            "Durée"
+          ],
+          "observations": [
+            "Bulles apparaissent",
+            "Gaz s’échappe dans système ouvert",
+            "Masse du récipient et contenu diminue par perte de gaz"
+          ],
+          "deduction": "Un gaz peut être présent sans bulles ; les bulles sont une phase distincte.",
+          "explanation": "Distinguer le liquide sans bulles, homogène à l’œil, de l’ensemble liquide+bulles, hétérogène.",
+          "application": "Expliquer une diminution de masse après dégazage et choisir le test de gaz de M12.",
+          "correction_rules": [
+            "0,7 g pour le jeu de valeurs du manuel 475,3→474,6 seulement",
+            "Masse totale incluant gaz échappé conservée",
+            "Aucune identification du gaz à sa seule couleur"
+          ],
+          "model_limits": [
+            "Manuel p.93–94 généralise à tort liquide+gaz homogène ; ne pas reprendre",
+            "Ne pas classer la bouteille entière avec son espace d’air comme une phase unique"
+          ],
+          "id": "M11-A03"
+        },
+        {
+          "title": "Changer l’échelle et explorer un mélange gazeux",
+          "manual_pages": [
+            96,
+            98
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "modele_explicatif",
+          "materials": [
+            "Lait",
+            "Vue microscopique illustrative",
+            "Seringue fermée",
+            "Vue particulaire d’air"
+          ],
+          "student_actions": [
+            "Comparer lait à l’œil et vue grossie",
+            "Comprimer l’air",
+            "Compter deux familles de particules"
+          ],
+          "variables": [
+            "Échelle observation",
+            "Volume de la seringue"
+          ],
+          "observations": [
+            "Lait uniforme à l’œil mais gouttelettes visibles au grossissement",
+            "Air garde ses proportions et occupe le volume"
+          ],
+          "deduction": "Aspect dépend de l’échelle ; mélange gazeux homogène ne signifie particules identiques.",
+          "explanation": "L’air scolaire 80 %/20 % est une approximation à deux gaz.",
+          "application": "Corriger dessin de seringue et répartir dix symboles selon modèle donné.",
+          "correction_rules": [
+            "Conserver les deux espèces lors compression",
+            "Aucun regroupement en deux couches",
+            "Étiqueter approximation 80/20"
+          ],
+          "model_limits": [
+            "Vue du lait est un modèle illustratif, pas un microscope virtuel universel",
+            "Autres gaz de l’air omis explicitement"
+          ],
+          "id": "M11-A04"
+        }
+      ]
+    },
+    {
+      "id": "M12",
+      "title": "La dissolution",
+      "manual_pages": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "central_question": "Où va le soluté et jusqu’où peut-on en ajouter ?",
+      "activities": [
+        {
+          "title": "Tester ce qui se dissout",
+          "manual_pages": [
+            99,
+            100,
+            102,
+            106,
+            107
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau",
+            "Sel",
+            "Sable",
+            "Sucre",
+            "Colorant",
+            "Éthanol virtuel",
+            "Huile",
+            "Bécher",
+            "Agitateur"
+          ],
+          "student_actions": [
+            "Choisir substance",
+            "Ajouter à eau",
+            "Agiter",
+            "Comparer au repos"
+          ],
+          "variables": [
+            "Substance",
+            "Quantité sous seuil",
+            "Solvant"
+          ],
+          "observations": [
+            "Sel/sucre dispersés invisibles",
+            "Sable déposé",
+            "Liquide miscible une phase"
+          ],
+          "deduction": "Une solution est un mélange homogène ; le soluté reste présent.",
+          "explanation": "Solution aqueuse : solvant eau. La dissolution ne signifie pas une destruction en grains de plus en plus petits.",
+          "application": "Identifier solvant/soluté et choisir parmi craie, farine, limaille, colorant.",
+          "correction_rules": [
+            "Substance définie par composition",
+            "Accepter soluble/insoluble dans conditions proposées",
+            "Ne pas appeler glace soluté de l’eau"
+          ],
+          "model_limits": [
+            "Insoluble signifie solubilité négligeable dans modèle",
+            "Dissolution ionique du sel non assimilée à broyage mécanique"
+          ],
+          "id": "M12-A01"
+        },
+        {
+          "title": "Atteindre la saturation et la dépasser",
+          "manual_pages": [
+            100,
+            101,
+            108,
+            109
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            95
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau",
+            "Sel",
+            "Sucre",
+            "Balance",
+            "Bécher",
+            "Agitateur",
+            "Thermomètre",
+            "Commande évaporation"
+          ],
+          "student_actions": [
+            "Ajouter progressivement",
+            "Agiter",
+            "Comparer seuil juste atteint et excès",
+            "Ajouter eau",
+            "Faire évaporer une part de l’eau"
+          ],
+          "variables": [
+            "Masse soluté",
+            "Quantité solvant",
+            "Température",
+            "Temps"
+          ],
+          "observations": [
+            "À l’équilibre, la solution peut être saturée sans dépôt au seuil.",
+            "Au-delà du seuil, un dépôt persiste après équilibre.",
+            "Sous le seuil, des grains peuvent rester momentanément visibles avant dissolution complète.",
+            "Ajouter de l’eau peut permettre de dissoudre le dépôt."
+          ],
+          "deduction": "Saturation est une limite pour une substance, un solvant et une température donnés.",
+          "explanation": "À température fixée, l’agitation accélère la dissolution mais ne change pas la capacité à l’équilibre. Des grains encore visibles avant équilibre ne prouvent pas à eux seuls la saturation.",
+          "application": "Prévoir apparition d’un dépôt après évaporation et comparer deux substances.",
+          "correction_rules": [
+            "À l’équilibre : m_dissous = min(m_ajouté, capacité définie pour les conditions présentes).",
+            "À l’équilibre, dépôt persistant seulement si excès positif ; distinguer ce dépôt des grains transitoires avant dissolution complète.",
+            "Conserver masse totale hors évaporation/perte",
+            "Ne pas confondre volume eau et volume solution"
+          ],
+          "model_limits": [
+            "Valeurs p.101 environ 360 g/L eau et 2000 g/L eau sans température ; insuffisantes pour simulation quantitative certifiée",
+            "p.108 parle litre de solution : incohérence à résoudre avant calibration",
+            "Données originales explicites possibles ; ne pas les présenter comme constantes",
+            "La durée et l’agitation ont un effet qualitatif sur la vitesse ; aucune cinétique quantitative réelle n’est revendiquée. La capacité est définie à température fixée."
+          ],
+          "id": "M12-A02"
+        },
+        {
+          "title": "Récupérer et identifier un gaz dissous",
+          "manual_pages": [
+            102,
+            103
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            96
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Bouteille d’eau gazeuse",
+            "Bain chaud virtuel",
+            "Bouchon percé",
+            "Tube de dégagement",
+            "Cuve d’eau",
+            "Tube à essai renversé",
+            "Eau de chaux"
+          ],
+          "student_actions": [
+            "Relier le tube de dégagement",
+            "Remplir et retourner tube collecteur",
+            "Faire dégazer",
+            "Tester gaz recueilli"
+          ],
+          "variables": [
+            "Température qualitative",
+            "Connexion",
+            "Volume collecté"
+          ],
+          "observations": [
+            "Bulles remplacent l’eau dans tube",
+            "Eau de chaux se trouble dans test préparé"
+          ],
+          "deduction": "La boisson contenait du dioxyde de carbone dissous.",
+          "explanation": "Déplacement d’eau recueille le gaz ; test préparé à l’eau de chaux permet l’identification dans le contexte.",
+          "application": "Corriger un collecteur rempli d’air ou une conduite mal placée.",
+          "correction_rules": [
+            "Collection exige trajet connecté et ouverture sous eau",
+            "Ne pas créer le gaz par chauffage",
+            "Distinguer gaz CO₂ et dioxygène dissous utile aux poissons"
+          ],
+          "model_limits": [
+            "Montage virtuel à sortie libre, jamais bouteille chauffée hermétiquement fermée",
+            "Réactif virtuel ; pas test universel sans interférences",
+            "Ne pas inférer qu’un gaz inconnu est CO₂ par bulles seules"
+          ],
+          "id": "M12-A03"
+        },
+        {
+          "title": "Dissoudre en gardant la même pesée",
+          "manual_pages": [
+            103,
+            104,
+            107
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            97
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Balance électronique",
+            "Bécher",
+            "Soucoupe",
+            "Agitateur",
+            "Eau",
+            "Sel"
+          ],
+          "student_actions": [
+            "Tarer tous les accessoires",
+            "Peser eau et sel séparés sur même plateau",
+            "Verser et agiter",
+            "Comparer"
+          ],
+          "variables": [
+            "Masse eau",
+            "Masse sel",
+            "Accessoires présents",
+            "Perte éventuelle"
+          ],
+          "observations": [
+            "Masse totale identique si rien ne quitte le système"
+          ],
+          "deduction": "La dissolution conserve la masse.",
+          "explanation": "Le soluté invisible n’a pas disparu ; la balance compte aussi récipient et accessoires.",
+          "application": "Calculer masse du verre+eau+sucre dans situation nouvelle.",
+          "correction_rules": [
+            "Somme masses sans double comptage tare",
+            "Même accessoires avant/après",
+            "Cas perte reconnu comme changement de système"
+          ],
+          "model_limits": [
+            "100 mL=100 g est approximation de l’expérience, pas valeur à toute température",
+            "Pas addition automatique des volumes"
+          ],
+          "id": "M12-A04"
+        },
+        {
+          "title": "Glace ou sucre, libres ou en sachet",
+          "manual_pages": [
+            104,
+            105,
+            106,
+            108,
+            109
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            98
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Quatre béchers",
+            "Eau tiède",
+            "Glaçons colorés",
+            "Sucre",
+            "Sachets étanches",
+            "Agitateur"
+          ],
+          "student_actions": [
+            "Mettre glace et sucre dans eau",
+            "Répéter avec sachets fermés",
+            "Comparer",
+            "Ouvrir sachet sucre"
+          ],
+          "variables": [
+            "Contact eau direct ou non",
+            "Température bain"
+          ],
+          "observations": [
+            "Glace fond même isolée de l’eau par sachet",
+            "Sucre sec en sachet ne se dissout pas",
+            "Sucre au contact de l’eau se dissout"
+          ],
+          "deduction": "Fondre est changer d’état ; dissoudre exige contact avec solvant.",
+          "explanation": "Le sachet laisse passer de l’énergie mais empêche ici mélange de matière.",
+          "application": "Expliquer pourquoi « le sucre fond dans mon verre » est une formulation trompeuse.",
+          "correction_rules": [
+            "Comparer les quatre cases indépendamment",
+            "Glace colorée finale n’est pas eau pure si colorant présent",
+            "Ne pas généraliser que le sucre chauffé donne seulement une fusion"
+          ],
+          "model_limits": [
+            "Éviter expérience réelle de chauffage du sucre : transformations supplémentaires",
+            "Le guide utilise sel, le manuel sucre ; conserver identité du scénario"
+          ],
+          "id": "M12-A05"
+        },
+        {
+          "id": "M12-A06",
+          "title": "Préparer une solution à concentration donnée — prolongement facultatif",
+          "manual_pages": [
+            107,
+            108,
+            109
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Soluté défini",
+            "Eau",
+            "Balance et coupelle",
+            "Bécher et agitateur",
+            "Entonnoir",
+            "Fiole jaugée",
+            "Pissette"
+          ],
+          "student_actions": [
+            "Choisir une concentration et un volume final dans les limites du scénario.",
+            "Calculer et peser la masse de soluté.",
+            "Dissoudre dans une quantité d’eau inférieure au volume final.",
+            "Transférer quantitativement, rincer les accessoires et compléter jusqu’au trait de la fiole.",
+            "Homogénéiser puis comparer deux préparations."
+          ],
+          "variables": [
+            "Masse de soluté dissous",
+            "Volume final de solution",
+            "Concentration cible",
+            "Température fixée"
+          ],
+          "observations": [
+            "À volume final égal, davantage de soluté dissous donne une concentration plus grande.",
+            "À masse dissoute égale, un volume final plus grand donne une concentration plus faible.",
+            "Le trait de jauge concerne le volume de solution finale."
+          ],
+          "deduction": "La concentration massique relie la masse dissoute au volume final de solution.",
+          "explanation": "c = m dissoute / V solution. Le scénario adapte les préparations proportionnelles du manuel ; le choix de la fiole reprend M03. Ajouter du soluté à 100 mL d’eau ne garantit pas 100 mL de solution.",
+          "application": "Adapter l’exemple du manuel : pour 100 mL de solution à 100 g/L, peser 10 g de sel puis ajuster le volume final à 100 mL. Comparer avec une autre préparation cohérente.",
+          "correction_rules": [
+            "m = c × V avec conversion cohérente des unités.",
+            "Employer la masse effectivement dissoute et le volume final de solution.",
+            "Conserver le soluté lors du transfert et des rinçages.",
+            "Distinguer erreur de calcul, perte de matière et erreur de volume ; accepter les unités équivalentes."
+          ],
+          "model_limits": [
+            "Prolongement libre d’accès, sans conditionner les autres ateliers.",
+            "Domaine sous le seuil de saturation, soluté et température définis.",
+            "Aucune addition automatique des volumes de solvant et de soluté ; propriétés et tolérances à calibrer avant implémentation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "M13",
+      "title": "Séparation des constituants d’un mélange",
+      "manual_pages": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "central_question": "Quelle technique permet de récupérer le constituant recherché ?",
+      "activities": [
+        {
+          "title": "Laisser déposer puis filtrer",
+          "manual_pages": [
+            110,
+            111,
+            112,
+            116,
+            117,
+            119,
+            120
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            101
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Jus avec pulpe",
+            "Eau sable sel",
+            "Bécher",
+            "Entonnoir",
+            "Papier filtre",
+            "Baguette de verre",
+            "Erlenmeyer"
+          ],
+          "student_actions": [
+            "Laisser reposer",
+            "Verser doucement surnageant",
+            "Plier/placer filtre",
+            "Verser le long de baguette",
+            "Observer résidu/filtrat"
+          ],
+          "variables": [
+            "Temps de repos",
+            "Nature particules",
+            "Filtre présent",
+            "Inclinaison versement"
+          ],
+          "observations": [
+            "Solides déposés mais liquide pas forcément entièrement limpide",
+            "Filtre retient solides adaptés",
+            "Sel dissous passe"
+          ],
+          "deduction": "Décantation et filtration retirent certains constituants d’un mélange hétérogène.",
+          "explanation": "Le filtre possède des pores ; le filtrat peut être encore un mélange.",
+          "application": "Choisir méthode pour café, eau sableuse salée, eau de piscine.",
+          "correction_rules": [
+            "Ne pas retirer sel par filtre ordinaire",
+            "Conserver inventaire résidu+filtrat",
+            "Filtre absent ne devient pas filtration",
+            "Pas de validation potabilité"
+          ],
+          "model_limits": [
+            "Sédimentation dépend particules ; temps accélérable",
+            "Filtre ne retire pas toute particule ni tout microbe"
+          ],
+          "id": "M13-A01"
+        },
+        {
+          "title": "Séparer deux liquides avec un robinet",
+          "manual_pages": [
+            112,
+            113,
+            120
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Ampoule à décanter",
+            "Support",
+            "Eau colorée",
+            "Huile",
+            "Béchers de récupération"
+          ],
+          "student_actions": [
+            "Remplir",
+            "Agiter puis laisser reposer",
+            "Ouvrir robinet",
+            "Changer récipient à interface",
+            "Fermer"
+          ],
+          "variables": [
+            "Couple liquide",
+            "Repos",
+            "Robinet",
+            "Moment du changement"
+          ],
+          "observations": [
+            "Deux phases après repos",
+            "Phase inférieure sort d’abord",
+            "Ouverture trop longue mélange les fractions"
+          ],
+          "deduction": "On sépare liquides non miscibles selon leurs couches.",
+          "explanation": "Pour eau+huile prévue, eau plus dense en bas ; eau+vinaigre demeure une seule phase aqueuse.",
+          "application": "Prévoir eau+huile+vinaigre puis expliquer échec avec eau+alcool.",
+          "correction_rules": [
+            "Acceptation dépend constituants de chaque fraction",
+            "Interdire réussite si récupération des deux phases ensemble",
+            "Pas de séparation de liquides miscibles par repos"
+          ],
+          "model_limits": [
+            "Pas de débit physique universel ; modèle gravitaire simplifié",
+            "Densités et miscibilités déclarées"
+          ],
+          "id": "M13-A02"
+        },
+        {
+          "title": "Récupérer l’eau d’une eau salée",
+          "manual_pages": [
+            113,
+            114,
+            115,
+            116,
+            119,
+            121
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            102
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Ballon",
+            "Chauffe-ballon virtuel",
+            "Thermomètre",
+            "Réfrigérant",
+            "Tuyaux d’eau de refroidissement",
+            "Erlenmeyer",
+            "Eau salée",
+            "Support"
+          ],
+          "student_actions": [
+            "Assembler parcours vapeur et eau froide",
+            "Chauffer",
+            "Faire circuler eau froide",
+            "Observer gouttes et résidu",
+            "Identifier distillat"
+          ],
+          "variables": [
+            "Chauffage",
+            "Refroidissement",
+            "Connexion",
+            "Quantité eau"
+          ],
+          "observations": [
+            "Vaporisation ballon",
+            "Condensation réfrigérant",
+            "Distillat eau dans scénario idéal eau+sel",
+            "Sel reste dans ballon"
+          ],
+          "deduction": "La distillation associe deux changements d’état et sépare selon volatilité.",
+          "explanation": "Eau froide circule dans enveloppe du réfrigérant sans se mélanger au distillat ; entrée basse et sortie haute.",
+          "application": "Dessaler virtuellement et localiser chaque changement d’état.",
+          "correction_rules": [
+            "Pas de goutte dans collecteur sans trajet et refroidissement suffisants dans scénario",
+            "Inventaire sel reste ballon",
+            "Circuits vapeur et eau froide distincts",
+            "Bilan matière conservé avec pertes affichées"
+          ],
+          "model_limits": [
+            "Distillat pas toujours pur ; eau+sel non volatil est cas choisi",
+            "Aucune chauffe de système clos",
+            "Lignes p.114 « phases non miscibles » inadaptées à eau salée"
+          ],
+          "id": "M13-A03"
+        },
+        {
+          "title": "Choisir une chaîne de séparation",
+          "manual_pages": [
+            117,
+            120,
+            121
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Cartes mélange et produit cible",
+            "Montages précédents",
+            "Schéma tour de distillation"
+          ],
+          "student_actions": [
+            "Choisir le produit à récupérer",
+            "Ordonner techniques",
+            "Suivre chaque constituant",
+            "Comparer évaporation seule et distillation"
+          ],
+          "variables": [
+            "Mélange initial",
+            "Produit cible",
+            "Technique"
+          ],
+          "observations": [
+            "Évaporer récupère sel mais pas eau",
+            "Distiller récupère eau",
+            "Distillation industrielle sépare fractions"
+          ],
+          "deduction": "La bonne méthode dépend du mélange et de ce que l’on souhaite récupérer.",
+          "explanation": "Raffinage donne des fractions de mélanges ; toutes les sorties ne sont pas des corps purs.",
+          "application": "Séparer sable, sel et eau en plusieurs étapes.",
+          "correction_rules": [
+            "Objectif explicite récupération eau ou sel",
+            "Accepter plusieurs chaînes justifiées",
+            "Nommer distillat plutôt que filtrat après distillation"
+          ],
+          "model_limits": [
+            "Lavande et pétrole sont documentaires ; séparation de mélanges volatils pas simulée par seuils indépendants"
+          ],
+          "id": "M13-A04"
+        }
+      ]
+    },
+    {
+      "id": "M14",
+      "title": "Le corps pur et ses caractéristiques",
+      "manual_pages": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132
+      ],
+      "central_question": "Comment distinguer deux liquides de même aspect et exploiter une courbe de température ?",
+      "activities": [
+        {
+          "title": "Trois eaux d’apparence voisine",
+          "manual_pages": [
+            122,
+            123
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "experience_interactive",
+          "materials": [
+            "Trois échantillons d’eau définis",
+            "Tubes à essai",
+            "Eau de chaux",
+            "Évaporateur virtuel",
+            "Cartes composition"
+          ],
+          "student_actions": [
+            "Comparer aspect",
+            "Tester présence CO₂ dans scénario",
+            "Évaporer un prélèvement",
+            "Observer résidu"
+          ],
+          "variables": [
+            "Échantillon",
+            "Test choisi"
+          ],
+          "observations": [
+            "Eau gazeuse réagit au test préparé",
+            "Eau minérale laisse sels",
+            "Eau pure du modèle ne laisse pas résidu"
+          ],
+          "deduction": "Même aspect ne signifie pas même composition.",
+          "explanation": "Un corps pur contient une seule substance ; test négatif ne prouve pas seul pureté universelle.",
+          "application": "Identifier parmi les trois identités fournies avec limites des tests.",
+          "correction_rules": [
+            "Exiger indice pertinent",
+            "Ne pas identifier eau potable par transparence",
+            "Ne pas déduire pureté absolue d’un seul test"
+          ],
+          "model_limits": [
+            "Échantillons connus et préparés",
+            "Eau déminéralisée réelle pas forcément chimiquement pure",
+            "Eau de chaux virtuelle ; pas diagnostic domestique"
+          ],
+          "id": "M14-A01"
+        },
+        {
+          "title": "Du glaçon à l’ébullition : relever et tracer",
+          "manual_pages": [
+            124,
+            125,
+            126
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            104
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau pure",
+            "Plaque chauffante virtuelle",
+            "Thermomètre -20 à 120 °C",
+            "Chronomètre",
+            "Tableau de mesures",
+            "Graphique interactif"
+          ],
+          "student_actions": [
+            "Lancer chauffage",
+            "Relever chaque point",
+            "Tracer",
+            "Sélectionner intervalle et états"
+          ],
+          "variables": [
+            "Temps",
+            "Chauffage",
+            "Pression fixée"
+          ],
+          "observations": [
+            "Température augmente puis palier fusion puis augmente puis palier ébullition"
+          ],
+          "deduction": "Les paliers correspondent à coexistence de deux états pour eau pure sous pression fixée.",
+          "explanation": "L’énergie continue à être transférée pendant le palier.",
+          "application": "Annoter solides/liquide/gaz sur nouveau relevé.",
+          "correction_rules": [
+            "Axes unités corrects",
+            "Palier 0 °C associe glace+eau ; 100 °C eau+vapeur",
+            "Ne pas déclarer tout gaz dès arrivée à 100 °C",
+            "Données originales identifiées si différentes du tableau source"
+          ],
+          "model_limits": [
+            "Temps du manuel exemple, pas constante de substance",
+            "Modèle pression atmosphérique normale"
+          ],
+          "id": "M14-A02"
+        },
+        {
+          "title": "Comparer une eau pure et une eau salée",
+          "manual_pages": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            131,
+            132
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            103,
+            104
+          ],
+          "kind": "experience_interactive",
+          "materials": [
+            "Eau pure",
+            "Eau salée",
+            "Thermomètre",
+            "Chronomètre",
+            "Graphique comparatif",
+            "Bain réfrigérant"
+          ],
+          "student_actions": [
+            "Comparer chauffage",
+            "Comparer refroidissement en complément guide",
+            "Repérer paliers",
+            "Confronter à cartes de substances"
+          ],
+          "variables": [
+            "Composition",
+            "Pression",
+            "Chauffage ou refroidissement"
+          ],
+          "observations": [
+            "Cas choisis eau pure palier ; eau salée température varie pendant transformation",
+            "Seuils propres aux substances données"
+          ],
+          "deduction": "Les températures de changement d’état constituent des indices d’identification dans conditions définies.",
+          "explanation": "Une courbe s’interprète avec son sens d’évolution, ses unités et les états coexistants.",
+          "application": "Distinguer fusion/solidification et identifier substance parmi candidats aux données fournies.",
+          "correction_rules": [
+            "Pas de palier inventé à partir d’un seul point",
+            "Correspondance fusion/solidification à pression identique",
+            "Ne pas conclure unicité globale de substance à un seul seuil"
+          ],
+          "model_limits": [
+            "Certains mélanges possèdent aussi paliers : règle non universelle",
+            "Refroidissement eau salée est complément guide",
+            "Constantes secondaires à contrôler avant intégration"
+          ],
+          "id": "M14-A03"
+        },
+        {
+          "title": "Lire une étiquette sans confondre pureté et potabilité",
+          "manual_pages": [
+            129,
+            130
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Étiquettes d’eaux originales",
+            "Tableau de minéraux dissous",
+            "Cartes corps pur/mélange/potable"
+          ],
+          "student_actions": [
+            "Comparer compositions",
+            "Repérer unités",
+            "Expliquer ce qui reste après évaporation"
+          ],
+          "variables": [
+            "Composition indiquée",
+            "Quantité du prélèvement"
+          ],
+          "observations": [
+            "Différentes eaux contiennent des quantités différentes de sels"
+          ],
+          "deduction": "Eau minérale est un mélange ; potable et chimiquement pur ne sont pas synonymes.",
+          "explanation": "L’étiquette sert ici à comprendre composition, pas à prescrire une marque.",
+          "application": "Comparer deux eaux fictives et leurs résidus prévus.",
+          "correction_rules": [
+            "Aucune recommandation santé issue marque",
+            "Ne pas classer sels comme pollution par seule présence",
+            "Données fictives déclarées"
+          ],
+          "model_limits": [
+            "Informations commerciales et de santé p.129–130 non reprises",
+            "Pas de conseil nourrisson/hypertension"
+          ],
+          "id": "M14-A04"
+        }
+      ]
+    },
+    {
+      "id": "M15",
+      "title": "Traitement des eaux",
+      "manual_pages": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145
+      ],
+      "central_question": "Que retire ou transforme chaque étape du traitement de l’eau ?",
+      "activities": [
+        {
+          "title": "Suivre un polluant jusqu’à l’eau",
+          "manual_pages": [
+            133,
+            134,
+            138,
+            139
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Paysage bassin versant",
+            "Sources domestiques, agricoles, industrielles",
+            "Cartes polluants"
+          ],
+          "student_actions": [
+            "Explorer rejets",
+            "Relier source à trajet",
+            "Choisir prévention",
+            "Observer conséquences préparées"
+          ],
+          "variables": [
+            "Source",
+            "Type polluant",
+            "Action préventive"
+          ],
+          "observations": [
+            "Déchets visibles, substances dissoutes et microbes ne se voient pas de la même façon"
+          ],
+          "deduction": "Une eau claire peut contenir des polluants ; prévenir limite ce qui arrive à traiter.",
+          "explanation": "Distinguer origine de pollution et nature du polluant aide à choisir une action.",
+          "application": "Relier collecte déchets, réduction rejets et traitement approprié.",
+          "correction_rules": [
+            "Accepter plusieurs sources plausibles",
+            "Pas de pollution jugée uniquement à couleur",
+            "Associer prévention à mécanisme"
+          ],
+          "model_limits": [
+            "Scène documentaire ; pas calcul écologique universel ni statistiques contemporaines"
+          ],
+          "id": "M15-A01"
+        },
+        {
+          "title": "Construire une chaîne de production d’eau potable",
+          "manual_pages": [
+            135,
+            136,
+            140,
+            141
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            107
+          ],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Grille et tamis",
+            "Bassin coagulation-floculation-décantation",
+            "Filtre à sable",
+            "Ozonation",
+            "Charbon actif",
+            "Chloration",
+            "Réservoir",
+            "Cartes contaminants"
+          ],
+          "student_actions": [
+            "Ordonner la chaîne du scénario",
+            "Suivre contaminants",
+            "Omettre une étape et comparer",
+            "Relier chaque opération à son rôle"
+          ],
+          "variables": [
+            "Étape active",
+            "Famille contaminants",
+            "Objectif de station"
+          ],
+          "observations": [
+            "Gros déchets retenus",
+            "Flocs déposés",
+            "Particules filtrées",
+            "Désinfection agit sur microorganismes",
+            "Certains composés retenus par charbon actif"
+          ],
+          "deduction": "Plusieurs opérations complémentaires sont nécessaires.",
+          "explanation": "Chaîne du manuel : grille/tamis, coagulation-floculation-décantation, sable, ozone, charbon actif, chloration ; contrôles requis avant distribution.",
+          "application": "Expliquer pourquoi un filtre seul ne rend pas une eau potable.",
+          "correction_rules": [
+            "Respecter dépendances de ce scénario",
+            "Associer sable à filtration et charbon actif à adsorption de certains composés",
+            "Ozone/chlore ≠ disparition de toute matière",
+            "Aucun label potable issu seule clarté"
+          ],
+          "model_limits": [
+            "Modèle documentaire ; aucune dose de désinfectant ni certification réelle",
+            "Ordre varie selon stations ; ne pas présenter cette chaîne comme seule possible"
+          ],
+          "id": "M15-A02"
+        },
+        {
+          "title": "Épurer une eau usée et retrouver les boues",
+          "manual_pages": [
+            137,
+            138,
+            141,
+            142,
+            143,
+            144
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [
+            108
+          ],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Réseau d’égouts",
+            "Dégrillage",
+            "Dessablage-dégraissage",
+            "Décantation primaire",
+            "Bassin biologique aéré",
+            "Clarificateur",
+            "Circuit des boues",
+            "Contrôle de sortie"
+          ],
+          "student_actions": [
+            "Construire la chaîne",
+            "Suivre sable, huile, matière organique et boues",
+            "Comparer avec potabilisation"
+          ],
+          "variables": [
+            "Étape",
+            "Aération qualitative",
+            "Nature pollution"
+          ],
+          "observations": [
+            "Sable au fond, graisse en surface",
+            "Bactéries transforment matière organique",
+            "Boues séparées",
+            "Eau en sortie destinée au milieu selon conditions"
+          ],
+          "deduction": "Épurer une eau usée et fabriquer une eau potable sont deux objectifs différents.",
+          "explanation": "Traitement biologique utilise microorganismes ; clarification sépare ensuite boues et eau.",
+          "application": "Repérer un trajet qui envoie directement eau épurée au robinet et expliquer l’erreur.",
+          "correction_rules": [
+            "Distinguer bassin biologique et ozonation",
+            "Conserver circuit des boues visible",
+            "Ne pas faire éliminer automatiquement tous toxiques par bactéries",
+            "Sortie non déclarée potable"
+          ],
+          "model_limits": [
+            "Moteur qualitatif ; pas rendement uniforme 90 %",
+            "Température basse ralentit sans règle universelle arrêt à5 °C",
+            "Réemploi nécessite traitements/contrôles adaptés"
+          ],
+          "id": "M15-A03"
+        },
+        {
+          "title": "Décider des compléments et prévenir les rejets",
+          "manual_pages": [
+            139,
+            142,
+            143,
+            144,
+            145
+          ],
+          "origin": "adaptation_manuel",
+          "guide_pages": [],
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Cartes traitement tertiaire",
+            "Cartes destination des boues",
+            "Bassin eaux pluviales",
+            "Options prévention"
+          ],
+          "student_actions": [
+            "Comparer rejet, réutilisation et gestion des boues",
+            "Choisir mesures pour pluie en ville",
+            "Expliquer ce qui reste hors modèle"
+          ],
+          "variables": [
+            "Destination de l’eau",
+            "Polluant cible",
+            "Occupation du sol"
+          ],
+          "observations": [
+            "Des traitements complémentaires répondent à objectifs précis",
+            "Boues et eaux pluviales ont leur propre filière"
+          ],
+          "deduction": "Les déchets ne disparaissent pas : traiter déplace ou transforme et exige un suivi.",
+          "explanation": "La partie culture scientifique élargit le laboratoire à une exploration des procédés.",
+          "application": "Dessiner une chaîne simple et justifier deux actions de prévention.",
+          "correction_rules": [
+            "Pas de réutilisation agricole automatiquement sûre",
+            "Distinguer traitement et stockage temporaire de pluie",
+            "Justifications libres avec critères visibles, sans score par mots-clés"
+          ],
+          "model_limits": [
+            "Chiffres marocains p.145 datés et contradictoires selon périmètres ; ne pas les présenter actuels",
+            "Aucun seuil réglementaire inventé"
+          ],
+          "id": "M15-A04"
+        }
+      ]
+    },
+    {
+      "id": "E01",
+      "title": "L’électricité autour de nous",
+      "manual_pages": [
+        150,
+        151,
+        152,
+        153,
+        154
+      ],
+      "central_question": "D’où vient l’électricité qui fait fonctionner nos objets et quel chemin suit-elle ?",
+      "activities": [
+        {
+          "id": "E01-A1",
+          "title": "Faire fonctionner et comparer les usages",
+          "manual_pages": [
+            150,
+            151
+          ],
+          "guide_pages": [
+            115
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Scène maison, tramway, atelier et communication",
+            "Appareils représentés"
+          ],
+          "student_actions": [
+            "Activer un appareil dans une scène préparée",
+            "Observer son effet",
+            "Regrouper les usages et justifier un classement"
+          ],
+          "variables": [
+            "Appareil choisi"
+          ],
+          "observations": [
+            "Une lampe éclaire ; un chauffage chauffe ; un moteur entraîne un mouvement ; certains appareils associent des fonctions"
+          ],
+          "deduction": "L’électricité sert à différents usages.",
+          "explanation": "Les appareils reçoivent de l’énergie électrique et la convertissent ; la communication est un usage, pas une nouvelle forme d’énergie.",
+          "application": "Classer un appareil nouveau et identifier plusieurs effets possibles.",
+          "correction_rules": [
+            "Association déterministe entre appareil et fonctions acceptées ; plusieurs fonctions possibles",
+            "Justification libre à comparer à des critères, sans notation par mots-clés"
+          ],
+          "model_limits": [
+            "Exploration documentaire animée : aucun calcul de consommation, aucune puissance déduite de la seule image."
+          ]
+        },
+        {
+          "id": "E01-A2",
+          "title": "Reconstituer les chaînes de production",
+          "manual_pages": [
+            151,
+            152,
+            153
+          ],
+          "guide_pages": [
+            116
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "modele_explicatif",
+          "materials": [
+            "Cartes sources d’énergie",
+            "Centrale hydraulique",
+            "Éolienne",
+            "Centrale thermique",
+            "Centrale nucléaire",
+            "Panneau photovoltaïque",
+            "Turbine et générateur représentés"
+          ],
+          "student_actions": [
+            "Choisir une source",
+            "Assembler les étapes utiles",
+            "Suivre les transferts",
+            "Comparer soleil direct et entraînement d’une machine tournante"
+          ],
+          "variables": [
+            "Type de production",
+            "Source disponible dans scénario"
+          ],
+          "observations": [
+            "Eau et vent entraînent une machine ; les chaînes thermique et nucléaire passent par production de vapeur ; le photovoltaïque suit une autre chaîne"
+          ],
+          "deduction": "Plusieurs sources permettent de fournir de l’énergie électrique.",
+          "explanation": "Une centrale est une installation de conversion ; distinguer source, dispositif et énergie fournie.",
+          "application": "Compléter une chaîne nouvelle avec une étape manquante.",
+          "correction_rules": [
+            "Ordre validé par graphe de chaîne propre à chaque installation",
+            "Photovoltaïque accepté sans turbine"
+          ],
+          "model_limits": [
+            "Modèles explicatifs qualitatifs originaux fondés sur illustrations ; aucune promesse de rendement ou de production chiffrée",
+            "Ne pas généraliser la turbine au photovoltaïque."
+          ]
+        },
+        {
+          "id": "E01-A3",
+          "title": "Suivre le trajet jusqu’à la maison",
+          "manual_pages": [
+            153,
+            154
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Carte réseau électrique",
+            "Centrale",
+            "Lignes de transport",
+            "Transformateurs",
+            "Usine, ville, ferme et maison",
+            "Compteur et disjoncteur représentés"
+          ],
+          "student_actions": [
+            "Relier production, transport et usagers",
+            "Placer les transformations entre niveaux de tension",
+            "Suivre un trajet complet"
+          ],
+          "variables": [
+            "Usager choisi",
+            "Maillon du réseau"
+          ],
+          "observations": [
+            "Les usagers ne sont pas tous raccordés au même niveau ; plusieurs transformations séparent centrale et maison"
+          ],
+          "deduction": "L’électricité est distribuée par un réseau organisé.",
+          "explanation": "Le disjoncteur commande/coupe l’alimentation dans cette vue ; son rôle de protection sera précisé en E07.",
+          "application": "Réparer une chaîne documentaire incomplète.",
+          "correction_rules": [
+            "Ne pas accepter un trajet qui omet toute transformation entre transport et maison",
+            "Ne pas présenter la prise comme productrice d’énergie"
+          ],
+          "model_limits": [
+            "Réseau documentaire sans branchement secteur manipulable",
+            "Les valeurs locales de tension et règles d’installation ne sont pas certifiées par le manuel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "title": "Le circuit électrique simple",
+      "manual_pages": [
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "central_question": "Comment obtenir une lampe allumée et expliquer le chemin conducteur ?",
+      "activities": [
+        {
+          "id": "E02-A1",
+          "title": "Construire une boucle qui allume la lampe",
+          "manual_pages": [
+            155,
+            156,
+            157,
+            163,
+            164,
+            165,
+            166
+          ],
+          "guide_pages": [
+            118
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Pile à deux bornes",
+            "Lampe à filament avec plot et culot",
+            "Douille",
+            "Fils de connexion",
+            "Interrupteur"
+          ],
+          "student_actions": [
+            "Relier des bornes",
+            "Essayer un seul contact puis deux contacts distincts",
+            "Ouvrir/fermer",
+            "Retirer source ou récepteur",
+            "Déplacer les objets sans changer les contacts"
+          ],
+          "variables": [
+            "Connexions entre bornes",
+            "État interrupteur",
+            "Présence et état composants"
+          ],
+          "observations": [
+            "La lampe fonctionne avec une boucle conductrice complète incluant ses deux contacts et une source adaptée",
+            "Toucher le verre ou deux fois le culot ne donne pas le même résultat"
+          ],
+          "deduction": "L’aspect de boucle ne suffit pas : la continuité électrique entre les bons contacts est nécessaire.",
+          "explanation": "La pile fournit l’énergie, la lampe la convertit, les fils relient et l’interrupteur commande. Un interrupteur n’est pas obligatoire à toute boucle.",
+          "application": "Allumer une lampe avec une disposition nouvelle puis expliquer un montage qui reste éteint.",
+          "correction_rules": [
+            "Valider la topologie et les contacts réels",
+            "Accepter toute disposition équivalente",
+            "Différencier circuit ouvert, absence de générateur et court-circuit"
+          ],
+          "model_limits": [
+            "Au départ source et lampe compatibles ; les tensions et dégradations détaillées relèvent E04/E07",
+            "Aucun câblage par simple proximité graphique."
+          ]
+        },
+        {
+          "id": "E02-A2",
+          "title": "Passer du montage au schéma et revenir",
+          "manual_pages": [
+            157,
+            158,
+            159,
+            163,
+            164,
+            166,
+            167
+          ],
+          "guide_pages": [
+            119
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Montage réaliste",
+            "Palette de symboles",
+            "Outil de fils et points de connexion"
+          ],
+          "student_actions": [
+            "Associer objet et symbole",
+            "Construire un schéma",
+            "Reconstituer un montage depuis schéma",
+            "Corriger symboles ou connexions"
+          ],
+          "variables": [
+            "Géométrie graphique",
+            "Topologie",
+            "Interrupteur ouvert/fermé"
+          ],
+          "observations": [
+            "Deux dessins différents peuvent représenter les mêmes connexions",
+            "Un croisement sans jonction ne crée pas de contact"
+          ],
+          "deduction": "Un schéma exprime les connexions avec des symboles partagés.",
+          "explanation": "La convention rectangulaire du manuel aide à lire ; elle ne constitue pas la condition physique du fonctionnement.",
+          "application": "Reconnaître un schéma équivalent malgré une disposition différente.",
+          "correction_rules": [
+            "Comparer graphe de bornes et état des dipôles",
+            "Retour précis sur symbole, contact ou polarité",
+            "Ne pas déclarer faux un circuit fonctionnel seulement parce que le dessin n’est pas rectangulaire"
+          ],
+          "model_limits": [
+            "Éditeur limité à symboles utiles ; diode, DEL, moteur et résistance introduits progressivement."
+          ]
+        },
+        {
+          "id": "E02-A3",
+          "title": "Tester des matériaux",
+          "manual_pages": [
+            159,
+            160,
+            165
+          ],
+          "guide_pages": [
+            120
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Montage témoin vérifié",
+            "Pinces crocodiles",
+            "Cuivre",
+            "Acier",
+            "Aluminium",
+            "Graphite de mine de crayon",
+            "Plastique",
+            "Verre",
+            "Bois sec",
+            "Gomme",
+            "Carton",
+            "Laine et cuir secs"
+          ],
+          "student_actions": [
+            "Vérifier d’abord le testeur",
+            "Insérer chaque échantillon",
+            "Observer et consigner",
+            "Comparer métal et graphite",
+            "Retester un contact douteux"
+          ],
+          "variables": [
+            "Matériau et portion testée",
+            "Qualité des contacts",
+            "Sensibilité du détecteur"
+          ],
+          "observations": [
+            "Métaux et graphite peuvent fermer le trajet ; plastiques/verre et échantillons secs isolants ne produisent pas d’éclat dans ces conditions"
+          ],
+          "deduction": "La conductivité dépend du matériau et les contacts doivent être fiables.",
+          "explanation": "La mine montre qu’un conducteur n’est pas nécessairement métallique. Une lampe éteinte seule ne prouve pas une conductivité strictement nulle.",
+          "application": "Choisir un remplacement de fil et une gaine isolante.",
+          "correction_rules": [
+            "Exiger testeur opérationnel pour conclure",
+            "Accepter observation non concluante pour mauvais contact",
+            "Éviter règle globale objet entier = matériau uniforme"
+          ],
+          "model_limits": [
+            "Échantillons définis ; résistance du graphite et seuil d’éclat annoncés",
+            "Eaux du guide non ajoutées comme simple test binaire ; activité complémentaire seulement avec composition et sensibilité définies."
+          ]
+        },
+        {
+          "id": "E02-A4",
+          "title": "Explorer l’intérieur de la lampe",
+          "manual_pages": [
+            160,
+            161,
+            162,
+            166
+          ],
+          "guide_pages": [
+            121
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "modele_explicatif",
+          "materials": [
+            "Coupe originale de lampe à filament",
+            "Plot",
+            "Culot",
+            "Deux tiges conductrices",
+            "Filament",
+            "Verre et isolant séparateur"
+          ],
+          "student_actions": [
+            "Basculer vue extérieure/coupe",
+            "Suivre les contacts jusqu’au filament",
+            "Distinguer conducteur/isolant",
+            "Ouvrir virtuellement le filament"
+          ],
+          "variables": [
+            "Point de contact",
+            "État du filament"
+          ],
+          "observations": [
+            "Deux chemins externes distincts sont reliés intérieurement par le filament ; le verre sépare certains éléments",
+            "Filament rompu : circuit interne ouvert"
+          ],
+          "deduction": "La chaîne utile est plot–tige–filament–tige–culot.",
+          "explanation": "L’isolant entre plot et culot empêche un trajet qui contournerait le filament ; l’incandescence est liée à l’échauffement du filament.",
+          "application": "Expliquer pourquoi une lampe intacte en apparence peut ne pas fonctionner.",
+          "correction_rules": [
+            "Reconnaître les deux bornes",
+            "Refuser trajet direct plot–culot par verre ou gaz",
+            "Ne pas exiger mémorisation de toute nomenclature de matériaux"
+          ],
+          "model_limits": [
+            "Modèle en coupe et historique documentaire ; pas de démontage réel",
+            "Historique p.162 lu mais dates et priorités historiques non réutilisées sans vérification distincte."
+          ]
+        },
+        {
+          "id": "E02-A5",
+          "title": "Enquêter avec des pièces connues bonnes",
+          "manual_pages": [
+            167
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Deux piles",
+            "Deux lampes",
+            "Jeu de contacts et fils",
+            "Pièce témoin fonctionnelle"
+          ],
+          "student_actions": [
+            "Tester une combinaison",
+            "Noter ce que cet essai prouve",
+            "Choisir le test supplémentaire utile",
+            "Remplacer un seul élément"
+          ],
+          "variables": [
+            "État connu/inconnu",
+            "Combinaisons essayées"
+          ],
+          "observations": [
+            "Un essai positif renseigne sur les deux éléments ; un essai négatif ne désigne pas toujours le responsable"
+          ],
+          "deduction": "Il faut distinguer constat certain et hypothèse.",
+          "explanation": "La comparaison contrôlée permet d’isoler une cause ; certains états restent indéterminés tant qu’un témoin fiable manque.",
+          "application": "Diagnostiquer une situation originale avec un test minimum utile.",
+          "correction_rules": [
+            "Réponses bon/défectueux/indéterminé selon preuves disponibles",
+            "Ne pas noter une hypothèse comme certitude",
+            "Correction expliquée révèle les preuves, pas seulement l’état caché"
+          ],
+          "model_limits": [
+            "Défis explicitement à une ou deux pannes ; pas de hasard non annoncé."
+          ]
+        },
+        {
+          "id": "E02-A6",
+          "title": "Construire un jeu de contact lumineux",
+          "manual_pages": [
+            167
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Pile",
+            "Lampe",
+            "Anneau métallique",
+            "Serpentin conducteur",
+            "Poignée isolante",
+            "Buzzer facultatif"
+          ],
+          "student_actions": [
+            "Déplacer l’anneau",
+            "Observer le contact",
+            "Remplacer le serpentin par isolant",
+            "Dessiner la boucle quand signal présent"
+          ],
+          "variables": [
+            "Contact anneau/serpentin",
+            "Matériau"
+          ],
+          "observations": [
+            "Le contact ferme la boucle et déclenche le signal"
+          ],
+          "deduction": "Le jeu réutilise conducteur/isolant et circuit ouvert/fermé.",
+          "explanation": "Le signal témoigne d’un contact électrique, pas d’une distance visuelle seule.",
+          "application": "Concevoir un contact d’alarme simple.",
+          "correction_rules": [
+            "Signal si contact réel et boucle alimentée",
+            "Mode clavier avec positions fixes en plus du déplacement libre"
+          ],
+          "model_limits": [
+            "Défi sans chronomètre imposé ni sanction ; aucune conclusion de maîtrise issue de la dextérité."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "title": "Montage en série – Montage en dérivation",
+      "manual_pages": [
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "central_question": "Comment commander plusieurs lampes et prévoir ce qui reste allumé si une branche est ouverte ?",
+      "activities": [
+        {
+          "id": "E03-A1",
+          "title": "Ajouter, permuter et retirer des lampes en série",
+          "manual_pages": [
+            168,
+            169,
+            171,
+            172,
+            175,
+            176
+          ],
+          "guide_pages": [
+            124
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source fixe adaptée",
+            "Une à trois lampes identiques",
+            "Fils",
+            "Interrupteur"
+          ],
+          "student_actions": [
+            "Observer une lampe seule",
+            "Ajouter une seconde puis une troisième en série",
+            "Permuter",
+            "Dévisser une lampe"
+          ],
+          "variables": [
+            "Nombre de lampes",
+            "Ordre",
+            "Continuité"
+          ],
+          "observations": [
+            "Éclat diminue dans le montage prévu",
+            "Permuter ne change pas le fonctionnement",
+            "Une coupure interrompt toute la boucle"
+          ],
+          "deduction": "La série possède un seul trajet ; tous ses dipôles sont traversés par le même courant.",
+          "explanation": "La panne considérée est une rupture : les autres lampes s’éteignent, elles ne grillent pas automatiquement.",
+          "application": "Choisir le montage d’une guirlande simplifiée et prévoir une coupure.",
+          "correction_rules": [
+            "Distinguer éteinte et grillée",
+            "Valider connexions en série indépendamment du dessin"
+          ],
+          "model_limits": [
+            "Même source, lampes identiques et paramètres conservés",
+            "Éclat calculé/qualitatif validé, pas règle universelle « plus de dipôles » incluant n’importe quelle source."
+          ]
+        },
+        {
+          "id": "E03-A2",
+          "title": "Rendre les branches indépendantes",
+          "manual_pages": [
+            169,
+            170,
+            171,
+            172,
+            175,
+            176
+          ],
+          "guide_pages": [
+            125
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source régulée adaptée",
+            "Trois lampes",
+            "Fils",
+            "Interrupteurs"
+          ],
+          "student_actions": [
+            "Ajouter une lampe entre les mêmes bornes",
+            "Ouvrir une branche",
+            "Permuter les objets",
+            "Comparer à la série"
+          ],
+          "variables": [
+            "Nombre de branches",
+            "État branche",
+            "Position interrupteur"
+          ],
+          "observations": [
+            "Une lampe retirée laisse les autres alimentées",
+            "Éclat inchangé dans le modèle à source maintenant sa tension"
+          ],
+          "deduction": "Des branches parallèles peuvent fonctionner indépendamment pour une ouverture locale.",
+          "explanation": "Chaque récepteur possède un chemin vers la source ; un interrupteur principal ouvre tous ces chemins.",
+          "application": "Commander deux lampes séparément.",
+          "correction_rules": [
+            "Vérifier mêmes deux nœuds pour les lampes en dérivation",
+            "Ne pas appliquer indépendance à un court-circuit de la source"
+          ],
+          "model_limits": [
+            "Source idéale/régulée explicitée ; pas d’indépendance absolue avec surcharge ou source réelle limitée."
+          ]
+        },
+        {
+          "id": "E03-A3",
+          "title": "Reconnaître la topologie et construire un circuit mixte",
+          "manual_pages": [
+            171,
+            172,
+            175,
+            176,
+            177,
+            178
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Outil de traçage de branches",
+            "Jonctions",
+            "Trois lampes et source",
+            "Vue graphe/schéma"
+          ],
+          "student_actions": [
+            "Surligner nœuds, branches et boucles contenant source",
+            "Déformer le dessin",
+            "Construire plusieurs circuits à trois lampes",
+            "Prévoir puis tester une rupture"
+          ],
+          "variables": [
+            "Géométrie",
+            "Topologie série/parallèle/mixte",
+            "Lampe retirée"
+          ],
+          "observations": [
+            "La position sur la feuille ne définit pas le montage",
+            "Deux lampes en série peuvent former une branche parallèle à une troisième"
+          ],
+          "deduction": "La connexion se lit par trajets et nœuds.",
+          "explanation": "Les mots série/dérivation peuvent désigner une partie d’un circuit mixte.",
+          "application": "Classer une paire de composants dans un circuit sans classer abusivement tout le circuit.",
+          "correction_rules": [
+            "Règles topologiques locales",
+            "Accepter circuit mixte",
+            "Préciser convention de comptage : jonctions dessinées et nœuds équipotentiels ne sont pas le même objet"
+          ],
+          "model_limits": [
+            "Le mot boucle suit ici les parcours contenant le générateur du manuel ; ne pas annoncer un nombre universel de toutes les boucles possibles."
+          ]
+        },
+        {
+          "id": "E03-A4",
+          "title": "Commander un lustre et comprendre le retour métallique",
+          "manual_pages": [
+            178
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Lustre virtuel cinq lampes",
+            "Deux interrupteurs",
+            "Scène automobile basse tension",
+            "Carrosserie conductrice représentée"
+          ],
+          "student_actions": [
+            "Placer commandes de groupe deux/trois lampes",
+            "Tester chaque combinaison",
+            "Suivre le retour par carrosserie",
+            "Ouvrir un phare"
+          ],
+          "variables": [
+            "État deux commandes",
+            "Branchement et panne locale"
+          ],
+          "observations": [
+            "Chaque commande peut gérer son groupe",
+            "Une carrosserie peut assurer une liaison conductrice commune dans le schéma proposé"
+          ],
+          "deduction": "Un conducteur peut prendre une autre forme qu’un fil ; la place de la commande détermine son effet.",
+          "explanation": "Transfert au montage d’une voiture et au lustre sans intervenir sur installation réelle.",
+          "application": "Créer un éclairage à deux groupes indépendants.",
+          "correction_rules": [
+            "Table des quatre combinaisons des commandes",
+            "Vérification de connexions du retour commun"
+          ],
+          "model_limits": [
+            "Représentation électrique simplifiée ; aucun tutoriel de câblage domestique ou automobile."
+          ]
+        },
+        {
+          "id": "E03-A5",
+          "title": "Envoyer un signal lumineux",
+          "manual_pages": [
+            173,
+            174
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Pile adaptée",
+            "Lampe",
+            "Contact poussoir",
+            "Alphabet Morse documentaire",
+            "Jeu de contact de E02"
+          ],
+          "student_actions": [
+            "Appuyer brièvement ou longtemps",
+            "Observer circuit fermé pendant appui",
+            "Composer un petit motif lumineux",
+            "Examiner le jeu de contact"
+          ],
+          "variables": [
+            "Durée volontaire du contact"
+          ],
+          "observations": [
+            "La commande momentanée produit des impulsions lumineuses"
+          ],
+          "deduction": "On peut transmettre une information en commandant un circuit.",
+          "explanation": "Le signal repose sur des séquences préparées ; l’activité de culture prolonge le circuit simple.",
+          "application": "Émettre un motif libre puis reconnaître une séquence proposée.",
+          "correction_rules": [
+            "Aucun chronomètre bloquant",
+            "Durées relatives tolérantes et correction accessible"
+          ],
+          "model_limits": [
+            "Le montage DEL p.174 ne précise pas de limitation de courant : adapter avec lampe compatible ou DEL protégée ; pas de reproduction matérielle brute."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "title": "Courant électrique et tension électrique",
+      "manual_pages": [
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193
+      ],
+      "central_question": "Comment observer le sens du courant et mesurer deux grandeurs différentes sans les confondre ?",
+      "activities": [
+        {
+          "id": "E04-A1",
+          "title": "Explorer des sources et inverser un moteur",
+          "manual_pages": [
+            179,
+            180,
+            190
+          ],
+          "guide_pages": [
+            127,
+            128
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Pile",
+            "Batterie",
+            "Panneau photovoltaïque documentaire",
+            "Générateur continu",
+            "Moteur à courant continu",
+            "Interrupteur"
+          ],
+          "student_actions": [
+            "Classer les sources proposées",
+            "Brancher le moteur",
+            "Inverser la pile",
+            "Comparer rotation et lampe à filament"
+          ],
+          "variables": [
+            "Polarité source",
+            "Récepteur"
+          ],
+          "observations": [
+            "Moteur tourne en sens inverse ; lampe à filament n’indique pas ce sens par son éclat"
+          ],
+          "deduction": "Le sens dépend de la polarité ; tous les récepteurs n’y réagissent pas de la même façon.",
+          "explanation": "L’expérience révèle une direction mais ne définit pas seule le sens conventionnel choisi.",
+          "application": "Obtenir avant/arrière dans un jouet virtuel.",
+          "correction_rules": [
+            "Inversion de polarité inverse le sens de rotation",
+            "Sources marquées continu distinguées des cas secteur/dynamo illustrés"
+          ],
+          "model_limits": [
+            "Moteur qualitatif sans calcul mécanique universel ; dynamo de bicyclette non présumée continue."
+          ]
+        },
+        {
+          "id": "E04-A2",
+          "title": "Tester la diode et représenter le sens conventionnel",
+          "manual_pages": [
+            181,
+            182,
+            190
+          ],
+          "guide_pages": [
+            129
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Diode repérée",
+            "Lampe témoin",
+            "Source adaptée",
+            "Flèches de courant",
+            "DEL protégée en complément"
+          ],
+          "student_actions": [
+            "Inverser la diode",
+            "Inverser source",
+            "Comparer deux diodes en série",
+            "Placer flèches seulement où courant circule"
+          ],
+          "variables": [
+            "Orientation diode",
+            "Polarité source",
+            "Association de diodes"
+          ],
+          "observations": [
+            "La diode permet le passage dans un sens du modèle et le bloque dans l’autre"
+          ],
+          "deduction": "Le sens conventionnel va du + au − à l’extérieur du générateur.",
+          "explanation": "La diode est un dipôle orienté. Les flèches de lumière de la DEL ne sont pas des flèches de déplacement de charge.",
+          "application": "Diagnostiquer un moteur empêché de tourner par diode inversée.",
+          "correction_rules": [
+            "Vérifier orientation de chaque diode",
+            "Pas d’animation de courant dans branche bloquée",
+            "Ne pas confondre sens conventionnel et électrons"
+          ],
+          "model_limits": [
+            "Diode idéalisée pour activité qualitative ; modèle de chute de tension propre pour mesures ultérieures",
+            "Pas d’égalité universelle diode passante = fil parfait."
+          ]
+        },
+        {
+          "id": "E04-A3",
+          "title": "Relier éclat et intensité puis mesurer en série",
+          "manual_pages": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            191,
+            193
+          ],
+          "guide_pages": [
+            130,
+            131,
+            132
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source stable",
+            "Une à trois lampes identiques",
+            "Multimètre numérique",
+            "Fils et bornes 10A/mA/COM"
+          ],
+          "student_actions": [
+            "Ajouter des lampes en série",
+            "Ouvrir le circuit hors alimentation pour insérer l’appareil",
+            "Choisir fonction courant continu et grand calibre avec borne correspondante",
+            "Affiner le calibre",
+            "Inverser les fils du multimètre"
+          ],
+          "variables": [
+            "Nombre de lampes",
+            "Calibre",
+            "Borne entrée",
+            "Polarité mesure"
+          ],
+          "observations": [
+            "Intensité et éclat varient dans le montage choisi",
+            "Calibre affine résolution ; inversion donne signe négatif",
+            "Calibre trop petit donne hors plage"
+          ],
+          "deduction": "L’ampèremètre mesure le courant qui le traverse et se place en série.",
+          "explanation": "La lecture dépend de l’unité du calibre et des bornes ; une résolution plus fine ne change pas le courant réel du modèle idéal.",
+          "application": "Mesurer un autre circuit puis expliquer une erreur de branchement.",
+          "correction_rules": [
+            "Valider fonction+bornes+topologie",
+            "Conversion point/virgule A↔mA↔µA",
+            "Distinguer mauvais branchement, surcharge entrée et hors plage",
+            "Valeurs d’affichage arrondies depuis valeur interne unique"
+          ],
+          "model_limits": [
+            "Fusible interne et limites explicités selon un modèle d’appareil choisi",
+            "Ne pas reprendre valeurs incohérentes p.193",
+            "Ampèremètre sur source en parallèle doit produire diagnostic de défaut virtuel."
+          ]
+        },
+        {
+          "id": "E04-A4",
+          "title": "Mesurer une tension entre deux points",
+          "manual_pages": [
+            187,
+            188,
+            189,
+            192
+          ],
+          "guide_pages": [
+            133
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Piles avec indications nominales",
+            "Lampes identiques adaptées",
+            "Multimètre en voltmètre",
+            "Bornes V/COM"
+          ],
+          "student_actions": [
+            "Comparer alimentations prévues",
+            "Brancher le voltmètre aux deux contacts choisis",
+            "Choisir calibre",
+            "Inverser les pointes",
+            "Mesurer pile avec circuit ouvert et lampe dans un montage fermé"
+          ],
+          "variables": [
+            "Paire de points",
+            "Polarité mesure",
+            "Calibre",
+            "Tension source"
+          ],
+          "observations": [
+            "La tension est une différence entre deux points ; elle peut exister sans courant dans une branche ouverte"
+          ],
+          "deduction": "Le voltmètre se branche en dérivation ; tension et intensité ne sont pas la même mesure.",
+          "explanation": "U s’exprime en volts ; la tension nominale inscrite ne remplace pas toute mesure de source réelle.",
+          "application": "Choisir l’instrument et corriger un branchement série/dérivation inversé.",
+          "correction_rules": [
+            "Bornes V/COM et connexion parallèle",
+            "Signe cohérent avec ordre des pointes",
+            "Ne pas forcer U=0 dès que I=0",
+            "Un voltmètre idéal inséré en série ouvre la boucle ; sa lecture peut être non nulle. Signaler le branchement inadéquat sans forcer un zéro."
+          ],
+          "model_limits": [
+            "Modèle scolaire commun : voltmètre idéal de résistance infinie, sans courant prélevé ; ampèremètre idéal sans chute de tension dans les branchements admissibles. Ces conventions sont affichées et ne décrivent pas un appareil réel parfait.",
+            "Les valeurs nominales, source régulée et source réelle sont distinguées."
+          ]
+        },
+        {
+          "id": "E04-A5",
+          "title": "Lire un instrument à aiguille",
+          "manual_pages": [
+            184,
+            185,
+            188,
+            191,
+            192
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Ampèremètre analogique",
+            "Voltmètre analogique",
+            "Sélecteur calibre",
+            "Échelles graduées"
+          ],
+          "student_actions": [
+            "Choisir l’échelle et le calibre",
+            "Lire position n et total N",
+            "Calculer C×n/N",
+            "Changer le calibre et comparer déviation"
+          ],
+          "variables": [
+            "Calibre",
+            "Grandeur",
+            "Valeur mesurée",
+            "Échelle"
+          ],
+          "observations": [
+            "Une même division ne correspond pas toujours à la même valeur"
+          ],
+          "deduction": "Il faut relier la graduation au calibre.",
+          "explanation": "Le calibre donne la pleine échelle ; unité issue de l’appareil et du réglage.",
+          "application": "Résoudre une lecture originale puis donner une unité équivalente.",
+          "correction_rules": [
+            "Valeur attendue calculée à partir de C,n,N",
+            "Tolérance liée à demi-division quand lecture graphique",
+            "Pas d’arrondi arbitraire pour cacher une erreur de facteur1000"
+          ],
+          "model_limits": [
+            "Aiguille et graduation doivent correspondre exactement au nombre affiché ; pas photographie décorative fixe.",
+            "Appareil analogique à aiguille et butée : inversion de polarité ou dépassement de pleine échelle signalés comme lecture non valide avec mouvement borné de l’aiguille, sans affichage numérique négatif ni « OL ». Aucune valeur extrapolée au-delà de l’échelle."
+          ]
+        },
+        {
+          "id": "E04-A6",
+          "title": "Choisir une lampe adaptée à la source",
+          "manual_pages": [
+            187,
+            188
+          ],
+          "guide_pages": [],
+          "origin": "creation_originale",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source réglable",
+            "Lampe à indications nominales",
+            "Voltmètre",
+            "Ampèremètre"
+          ],
+          "student_actions": [
+            "Lire les indications",
+            "Faire varier une alimentation virtuelle dans scénarios bornés",
+            "Observer faible/normal/excessif",
+            "Comparer tension appliquée et nominale"
+          ],
+          "variables": [
+            "Tension alimentation",
+            "Lampe choisie"
+          ],
+          "observations": [
+            "Une lampe n’est pas adaptée à toute source ; un éclat excessif peut précéder un filament endommagé dans un modèle annoncé"
+          ],
+          "deduction": "Le fonctionnement dépend des caractéristiques nominales.",
+          "explanation": "Approfondissement original cohérent avec p.188, complété par annexe p.232 vérifiée par le coordinateur.",
+          "application": "Choisir source et lampe compatibles.",
+          "correction_rules": [
+            "Comparaison nominal/appliqué",
+            "État grillé persisté jusqu’au remplacement virtuel si scénario le modélise"
+          ],
+          "model_limits": [
+            "Courbes lampe et loi de dégradation à définir et valider avant mise en œuvre ; ne pas inventer délai de destruction réel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "title": "La résistance électrique",
+      "manual_pages": [
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201
+      ],
+      "central_question": "Comment reconnaître, mesurer et choisir un résistor pour modifier le courant ?",
+      "activities": [
+        {
+          "id": "E05-A1",
+          "title": "Ajouter un résistor et comparer",
+          "manual_pages": [
+            194,
+            195,
+            196,
+            197,
+            198,
+            200,
+            201
+          ],
+          "guide_pages": [
+            135,
+            138,
+            139
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source stable",
+            "Lampe",
+            "Résistors de valeurs distinctes",
+            "Ampèremètre",
+            "Interrupteur"
+          ],
+          "student_actions": [
+            "Mesurer circuit sans résistor ajouté",
+            "Insérer un résistor",
+            "Changer uniquement sa valeur",
+            "Déplacer le résistor avant/après lampe",
+            "Comparer intensités en plusieurs positions"
+          ],
+          "variables": [
+            "Résistance ajoutée",
+            "Position dans une même boucle"
+          ],
+          "observations": [
+            "À source et lampe conservées, ajouter davantage de résistance diminue courant/éclat ; déplacer sans changer topologie ne change pas I"
+          ],
+          "deduction": "Un résistor limite le courant dans toute sa boucle ; il ne le consomme pas.",
+          "explanation": "Distinguer composant résistor et grandeur R, et conversion d’énergie en chaleur de disparition du courant.",
+          "application": "Choisir parmi deux résistors pour limiter davantage un courant.",
+          "correction_rules": [
+            "Variables de comparaison conservées",
+            "I identique avant/après résistor",
+            "Ne pas déduire R seulement de la couleur globale du composant"
+          ],
+          "model_limits": [
+            "Lampe non forcément ohmique ; relation U=RI réservée au résistor dans limites annoncées",
+            "Courant après suppression = situation différente selon retrait ouvrant circuit ou remplacement par fil, à distinguer."
+          ]
+        },
+        {
+          "id": "E05-A2",
+          "title": "Lire les anneaux et vérifier à l’ohmmètre",
+          "manual_pages": [
+            195,
+            196,
+            198,
+            199,
+            200
+          ],
+          "guide_pages": [
+            136,
+            137
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Résistors à quatre anneaux",
+            "Code couleurs accessible",
+            "Multimètre Ω",
+            "Pointes COM/VΩ"
+          ],
+          "student_actions": [
+            "Orienter les anneaux",
+            "Décoder deux chiffres et multiplicateur",
+            "Débrancher et isoler le résistor",
+            "Choisir calibre et mesurer",
+            "Comparer valeur nominale et mesure"
+          ],
+          "variables": [
+            "Couleurs",
+            "Valeur composant",
+            "Calibre",
+            "Connexion au circuit"
+          ],
+          "observations": [
+            "Le code donne une valeur nominale ; la lecture instrumentale dépend du calibre et de la résolution"
+          ],
+          "deduction": "Deux méthodes donnent accès à R : code et mesure.",
+          "explanation": "Dans les exemples à multiplicateur décimal positif du manuel, le troisième anneau donne des zéros ; le dernier repère la tolérance.",
+          "application": "Retrouver un résistor de remplacement et convertir Ω/kΩ/MΩ.",
+          "correction_rules": [
+            "Décodage (10a+b)×10^c",
+            "Calibre adapté supérieur à valeur",
+            "Mesure hors tension et composant isolé",
+            "Ne pas interpréter affichage0 comme résistance nécessairement nulle"
+          ],
+          "model_limits": [
+            "Quatre anneaux seulement au départ ; tolérance de fabrication expliquée sans promettre égalité exacte",
+            "Données incohérentes p.200 exclues."
+          ]
+        },
+        {
+          "id": "E05-A3",
+          "title": "Protéger une DEL dans le montage prévu",
+          "manual_pages": [
+            200
+          ],
+          "guide_pages": [
+            138
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "DEL repérée",
+            "Résistor",
+            "Source continue",
+            "Ampèremètre"
+          ],
+          "student_actions": [
+            "Tester montage préparé avec limiteur",
+            "Augmenter R",
+            "Comparer I/éclat",
+            "Retirer virtuellement limiteur avec et sans remplacement par fil"
+          ],
+          "variables": [
+            "Résistance",
+            "Présence du chemin",
+            "Orientation DEL"
+          ],
+          "observations": [
+            "R limite le courant ; retirer et laisser ouvert éteint, contourner par fil expose à excès selon source"
+          ],
+          "deduction": "Le limiteur protège le composant dans un montage compatible.",
+          "explanation": "La limitation dépend de tension source et caractéristiques DEL ; le résistor ne garantit pas toute protection.",
+          "application": "Réparer un schéma original de DEL sans limiteur.",
+          "correction_rules": [
+            "Vérifier polarité et limiteur en série",
+            "Feedback distinct circuit ouvert/surintensité"
+          ],
+          "model_limits": [
+            "Pas de valeur de protection universelle ; caractéristiques du modèle à définir."
+          ]
+        },
+        {
+          "id": "E05-A4",
+          "title": "Mesurer la résistance d’une longueur de graphite",
+          "manual_pages": [
+            200
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Mine de graphite homogène",
+            "Règle",
+            "Contacts mobiles",
+            "Ohmmètre"
+          ],
+          "student_actions": [
+            "Déplacer contact mobile",
+            "Mesurer longueur et R",
+            "Tracer tableau/graphe",
+            "Comparer R/longueur"
+          ],
+          "variables": [
+            "Longueur testée",
+            "Section et matériau constants"
+          ],
+          "observations": [
+            "Dans le modèle uniforme proposé, R croît proportionnellement à la longueur"
+          ],
+          "deduction": "La géométrie compte autant que le nom du matériau.",
+          "explanation": "Approfondissement explicitement présent dans manuel ; exemple p.200 donne4/8/12/16cm et80/160/240/320Ω.",
+          "application": "Prévoir R pour une longueur nouvelle dans ce modèle.",
+          "correction_rules": [
+            "Facteur constant avec unités Ω/cm",
+            "Comparer valeurs équivalentes",
+            "Ne pas transformer coefficient de cet exemple en propriété de toute mine"
+          ],
+          "model_limits": [
+            "Température, composition, section et contacts constants ; valeurs source illustratives, pas mesure d’un crayon réel."
+          ]
+        },
+        {
+          "id": "E05-A5",
+          "title": "Découvrir la relation U–I d’un conducteur ohmique",
+          "manual_pages": [
+            201
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Générateur de tension continue réglable",
+            "Résistor",
+            "Ampèremètre",
+            "Voltmètre",
+            "Table de mesures",
+            "Graphe U=f(I)"
+          ],
+          "student_actions": [
+            "Assembler A en série et V aux bornes de R",
+            "Régler plusieurs tensions",
+            "Relever U et I",
+            "Tracer points",
+            "Déduire facteur de proportionnalité",
+            "Prévoir puis vérifier une nouvelle mesure"
+          ],
+          "variables": [
+            "Tension source",
+            "Résistance fixe"
+          ],
+          "observations": [
+            "Droite passant par origine pour résistor ohmique à température fixée"
+          ],
+          "deduction": "U=R×I dans les conditions du conducteur ohmique.",
+          "explanation": "Le manuel place cette loi dans ses exercices d’approfondissement ; elle doit rester accessible mais ne remplace pas les observations qualitatives de base.",
+          "application": "Calculer U, I ou R avec unités et vérifier expérimentalement dans le modèle.",
+          "correction_rules": [
+            "Vérifier branchements puis proportionnalité",
+            "Convertir mA/A avant calcul",
+            "Tolérance liée à lecture graphique",
+            "Graphe original calculé depuis mêmes valeurs que multimètres"
+          ],
+          "model_limits": [
+            "Ne pas généraliser droite à moteur, lampe chauffante ou diode",
+            "Pas de valeurs recopiées par lecture approximative du graphique source ; données originales cohérentes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "title": "Loi des nœuds – Loi d’additivité des tensions",
+      "manual_pages": [
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210
+      ],
+      "central_question": "Quelles relations les mesures révèlent-elles entre courants et tensions dans les différentes branches ?",
+      "activities": [
+        {
+          "id": "E06-A1",
+          "title": "Comparer les tensions de branches",
+          "manual_pages": [
+            202,
+            203,
+            208,
+            209
+          ],
+          "guide_pages": [
+            144
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source",
+            "Deux lampes ou résistors",
+            "Trois voltmètres",
+            "Interrupteur de branche"
+          ],
+          "student_actions": [
+            "Construire parallèle",
+            "Mesurer source et chaque récepteur",
+            "Changer un récepteur",
+            "Ouvrir une branche en observant précisément quels points sont mesurés"
+          ],
+          "variables": [
+            "Charge branche",
+            "État interrupteur",
+            "Paire de bornes"
+          ],
+          "observations": [
+            "Dipôles reliés aux mêmes deux nœuds ont même tension ; ouverture d’une branche peut modifier la tension sur son récepteur"
+          ],
+          "deduction": "L’égalité dépend des deux nœuds communs, pas de l’aspect identique des lampes.",
+          "explanation": "Repérer les points électriques mesurés avant d’appliquer une loi.",
+          "application": "Trouver une tension inconnue dans circuit redessiné.",
+          "correction_rules": [
+            "Égalité U seulement pour mêmes paires de nœuds et conventions",
+            "Ne pas confondre tension branche ouverte entière et tension lampe seule",
+            "Distinguer branche ouverte à potentiels déterminés, pointe non connectée et ensemble flottant. Si la différence de potentiel n’est pas déterminée par le modèle, afficher mesure indéterminée ou connexion incomplète, sans zéro arbitraire."
+          ],
+          "model_limits": [
+            "Source maintenue constante hors défaut.",
+            "Ampèremètre idéal sans chute de tension, voltmètre idéal sans courant ; les égalités de cette activité utilisent ces conventions."
+          ]
+        },
+        {
+          "id": "E06-A2",
+          "title": "Mesurer les courants aux nœuds",
+          "manual_pages": [
+            203,
+            204,
+            208,
+            209
+          ],
+          "guide_pages": [
+            142
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source",
+            "Deux puis trois branches",
+            "Ampèremètres multiples",
+            "Charges identiques puis différentes"
+          ],
+          "student_actions": [
+            "Mesurer principale et dérivées",
+            "Placer flèches entrantes/sortantes",
+            "Ajouter/retirer branche",
+            "Changer une charge et calculer mesure cachée"
+          ],
+          "variables": [
+            "Nombre de branches",
+            "Charge par branche"
+          ],
+          "observations": [
+            "Courant total égale somme des branches ; branches différentes peuvent porter courants différents"
+          ],
+          "deduction": "La somme entrante égale la somme sortante.",
+          "explanation": "Le courant se partage selon le circuit ; le partage égal n’est qu’un cas particulier.",
+          "application": "Déduire intensité et sens manquants sur nœud à plusieurs branches.",
+          "correction_rules": [
+            "Somme signée cohérente",
+            "Conversions A/mA",
+            "Ne pas imposer partage moitié-moitié",
+            "Valeurs d’écran arrondies avec tolérance explicite"
+          ],
+          "model_limits": [
+            "Guide142 données0,16≠0,05+0,10 non importées ; produire modèle exact puis affichage arrondi."
+          ]
+        },
+        {
+          "id": "E06-A3",
+          "title": "Comparer I et U dans une seule boucle",
+          "manual_pages": [
+            204,
+            205,
+            206,
+            208
+          ],
+          "guide_pages": [
+            141,
+            143
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source",
+            "Deux récepteurs différents",
+            "Trois ampèremètres",
+            "Trois voltmètres"
+          ],
+          "student_actions": [
+            "Mesurer I avant, entre et après récepteurs",
+            "Mesurer U source et récepteurs",
+            "Permuter récepteurs",
+            "Masquer une mesure et prévoir"
+          ],
+          "variables": [
+            "Récepteurs",
+            "Position mesure",
+            "Tension source"
+          ],
+          "observations": [
+            "Même I en tout point ; somme des chutes de tension égale tension source"
+          ],
+          "deduction": "Unicité de I et additivité de U sont deux lois distinctes.",
+          "explanation": "Des lampes d’éclats différents en série ne prouvent pas des intensités différentes.",
+          "application": "Résoudre circuit mixte en appliquant une loi à chaque portion utile.",
+          "correction_rules": [
+            "I égaux dans même branche série",
+            "Somme U cohérente et signes conservés",
+            "Ne pas donner U/2 sans récepteurs identiques"
+          ],
+          "model_limits": [
+            "Fils et interrupteur fermé idéaux ; pour modèle réel inclure toutes les chutes."
+          ]
+        },
+        {
+          "id": "E06-A4",
+          "title": "Construire un afficheur à segments",
+          "manual_pages": [
+            210
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Afficheur sept segments et point",
+            "Huit DEL",
+            "Huit résistors",
+            "Huit commandes",
+            "Source5V pédagogique",
+            "A/V"
+          ],
+          "student_actions": [
+            "Activer segments",
+            "Afficher chiffre choisi",
+            "Mesurer I de branches",
+            "Additionner courant principal",
+            "Déduire tension DEL depuis tension résistor"
+          ],
+          "variables": [
+            "Segments actifs",
+            "Intensités de branche",
+            "Répartition des tensions"
+          ],
+          "observations": [
+            "Chaque segment possède sa branche avec limitation ; courant global varie avec segments actifs"
+          ],
+          "deduction": "Les lois servent à expliquer un objet lisible et utile.",
+          "explanation": "Le manuel associe huit branches a–h aux sept segments plus point ; ne pas oublier ce huitième élément.",
+          "application": "Afficher un chiffre puis prévoir I total avec données originales.",
+          "correction_rules": [
+            "Table segment/chiffre contrôlée",
+            "I total somme branches actives",
+            "U source = U résistor + U DEL pour chaque branche",
+            "Correspondance retenue, conforme au dessin p.210 : a/1=haut droite ; b/2=haut ; c/3=haut gauche ; d/4=milieu ; e/5=bas gauche ; f/6=bas ; g/7=bas droite ; h/8=point. Même table pour affichage et correction.",
+            "Chiffre 3 : branches 1,2,4,6,7 ; chiffre 6 : branches 2,3,4,5,6,7. Le point constitue une commande distincte."
+          ],
+          "model_limits": [
+            "Modèle préparé et valeurs nominales de DEL documentées ; aucune résistance oubliée."
+          ]
+        },
+        {
+          "id": "E06-A5",
+          "title": "Explorer les piles à fruits comme culture scientifique",
+          "manual_pages": [
+            207
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Représentation citrons/pommes de terre",
+            "Électrodes de deux métaux",
+            "Fils",
+            "Horloge",
+            "DEL",
+            "Voltmètre"
+          ],
+          "student_actions": [
+            "Associer les éléments d’une cellule",
+            "Suivre association en série",
+            "Comparer tension mesurée et capacité à alimenter une charge dans scénario documenté"
+          ],
+          "variables": [
+            "Paires de métaux",
+            "Association",
+            "Charge choisie"
+          ],
+          "observations": [
+            "Une tension observable ne garantit pas que n’importe quelle lampe s’allume"
+          ],
+          "deduction": "Une source a des limites et son fonctionnement dépend des matériaux et de la charge.",
+          "explanation": "Exploration documentaire originale à partir culture p.207 ; distinguer énergie chimique et simple source « fruit ».",
+          "application": "Expliquer pourquoi le même ensemble peut faire fonctionner une horloge mais pas une lampe donnée.",
+          "correction_rules": [
+            "Accepter conclusion dépend du dispositif",
+            "Pas de valeur garantie pour une paire arbitraire"
+          ],
+          "model_limits": [
+            "Modèle électrochimique non fourni par manuel ; activité documentaire tant que données fiables manquent",
+            "Aucune promesse que toutes les paires illustrées produisent même tension/polarité."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E07",
+      "title": "Lutte contre les dangers du courant électrique",
+      "manual_pages": [
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225
+      ],
+      "central_question": "Comment expliquer une panne, reconnaître un défaut et comprendre une protection ?",
+      "activities": [
+        {
+          "id": "E07-A1",
+          "title": "Localiser une panne avec preuve",
+          "manual_pages": [
+            211,
+            212,
+            213,
+            223,
+            224,
+            225
+          ],
+          "guide_pages": [
+            148,
+            152
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source basse tension virtuelle",
+            "Lampe",
+            "Interrupteur",
+            "Trois fils identifiés",
+            "Lampe témoin vérifiée",
+            "Composants de remplacement"
+          ],
+          "student_actions": [
+            "Faire hypothèse facultative",
+            "Tester témoin",
+            "Mesurer ou substituer un composant",
+            "Déplacer sonde sur points repérés",
+            "Noter preuve et limites",
+            "Comparer cas une/deux pannes"
+          ],
+          "variables": [
+            "Composant défectueux",
+            "Nombre de pannes annoncé",
+            "Point testé"
+          ],
+          "observations": [
+            "Une coupure peut venir du fil, interrupteur, source ou filament ; certains tests isolés ne concluent pas"
+          ],
+          "deduction": "On localise par tests contrôlés et on distingue panne observée de cause présumée.",
+          "explanation": "Une lampe témoin ajoute un chemin ; son allumage se déduit du circuit effectivement obtenu et de la source.",
+          "application": "Diagnostiquer un cas original et justifier le prochain essai.",
+          "correction_rules": [
+            "Résultat calculé sur circuit modifié par témoin",
+            "Réponse indéterminé autorisée si preuves insuffisantes",
+            "Cas tout allumé A→B…F p.213 à corriger : coupure F–A sous hypothèse unique"
+          ],
+          "model_limits": [
+            "Simulations uniquement ; pas de lampe témoin sur installation domestique",
+            "Guide148 tableau omet certains cas négatifs : ne pas copier corrections sans conditions."
+          ]
+        },
+        {
+          "id": "E07-A2",
+          "title": "Comparer contournement d’une lampe et court-circuit de source",
+          "manual_pages": [
+            213,
+            214,
+            219,
+            223,
+            224,
+            225
+          ],
+          "guide_pages": [
+            147
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source avec limitation/modèle interne",
+            "Lampes série/parallèle",
+            "Fil de dérivation",
+            "Ampèremètre virtuel",
+            "Indicateur d’échauffement"
+          ],
+          "student_actions": [
+            "Prédire chemin",
+            "Ajouter fil aux bornes d’une lampe série",
+            "Comparer lampe dérivation",
+            "Identifier si source aussi court-circuitée",
+            "Retirer le défaut et réinitialiser"
+          ],
+          "variables": [
+            "Paire de bornes reliées",
+            "Topologie",
+            "Limitation source"
+          ],
+          "observations": [
+            "Lampe contournée s’éteint ; autre lampe série peut recevoir davantage de tension",
+            "Une branche fil reliant les deux nœuds de source provoque défaut global"
+          ],
+          "deduction": "Un court-circuit est une liaison de très faible résistance ; ses conséquences dépendent du circuit.",
+          "explanation": "Il faut distinguer dipôle contourné et source court-circuitée ; une intensité infinie n’est pas une valeur physique affichable.",
+          "application": "Repérer défaut dans dessin nouveau et tracer trajets possibles.",
+          "correction_rules": [
+            "Détecter liaison source par faible résistance",
+            "I limité par modèle source/fils ou défaut déclaré sans nombre arbitraire",
+            "Ne pas appliquer règle « toute lampe court-circuitée grille tout »"
+          ],
+          "model_limits": [
+            "Paille de fer p.214/224 reste représentation documentaire de danger ; aucun tutoriel réel",
+            "Échauffement qualitatif ou modèle validé, pas délai d’incendie inventé."
+          ]
+        },
+        {
+          "id": "E07-A3",
+          "title": "Observer l’ouverture d’un fusible",
+          "manual_pages": [
+            215,
+            218,
+            220
+          ],
+          "guide_pages": [
+            149
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Source réglable limitée",
+            "Ampèremètre",
+            "Fusible à caractéristiques annoncées",
+            "Lampes ou résistors",
+            "Commandes"
+          ],
+          "student_actions": [
+            "Insérer protection en série",
+            "Augmenter charge par branches ou tension dans scénario préparé",
+            "Observer I et état fusible",
+            "Diminuer charge après ouverture",
+            "Remplacer fusible virtuellement"
+          ],
+          "variables": [
+            "Charge",
+            "Tension",
+            "Seuil/modèle protection"
+          ],
+          "observations": [
+            "Surintensité provoque ouverture ; fusible fondu ne se réarme pas seul"
+          ],
+          "deduction": "Le fusible protège le circuit contre des surintensités.",
+          "explanation": "Une protection est adaptée à un circuit ; elle ne garantit pas à elle seule la protection d’une personne.",
+          "application": "Choisir où placer protection dans une maquette virtuelle et expliquer une coupure.",
+          "correction_rules": [
+            "État fondu persistant",
+            "Coupure de la branche protégée",
+            "Seuil présenté comme simplification ou courbe temps-courant validée"
+          ],
+          "model_limits": [
+            "Aucune valeur normative de logement ; pas de fabrication de fusible",
+            "Modèle pédagogique seuil ne prétend pas reproduire instantanément tout fusible réel."
+          ]
+        },
+        {
+          "id": "E07-A4",
+          "title": "Observer des tensions même sans lampe allumée",
+          "manual_pages": [
+            224
+          ],
+          "guide_pages": [],
+          "origin": "adaptation_manuel",
+          "kind": "experience_interactive",
+          "materials": [
+            "Circuit source/lampe/interrupteur",
+            "Voltmètre",
+            "Fil idéal"
+          ],
+          "student_actions": [
+            "Mesurer chaque dipôle circuit fermé",
+            "Ouvrir interrupteur",
+            "Répéter mêmes mesures",
+            "Identifier dipôle à partir de tableau original"
+          ],
+          "variables": [
+            "Interrupteur",
+            "Paire de bornes"
+          ],
+          "observations": [
+            "Source conserve tension ; interrupteur ouvert peut porter tension ; lampe non parcourue a0V dans le circuit simple prévu"
+          ],
+          "deduction": "Absence d’éclat ne signifie pas absence de tension partout.",
+          "explanation": "Chaque valeur dépend des deux points mesurés et du circuit précis.",
+          "application": "Résoudre un tableau original de mesures ouvert/fermé.",
+          "correction_rules": [
+            "Recalcul de chaque tension",
+            "Aucune tension fixée aux points flottants sans référence ou modèle d’appareil"
+          ],
+          "model_limits": [
+            "Cas simple à une ouverture ; pas de généralisation à tout circuit déconnecté."
+          ]
+        },
+        {
+          "id": "E07-A5",
+          "title": "Analyser des situations dangereuses",
+          "manual_pages": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224
+          ],
+          "guide_pages": [
+            150,
+            151,
+            153
+          ],
+          "origin": "adaptation_manuel",
+          "kind": "exploration_documentaire",
+          "materials": [
+            "Illustrations originales de situations",
+            "Pictogrammes",
+            "Schéma de protection documentaire",
+            "Scène oiseau sur fil"
+          ],
+          "student_actions": [
+            "Repérer risque dans scène",
+            "Choisir conduite prudente parmi options rédigées",
+            "Expliquer rôle de chaque contact",
+            "Comparer surcharge et court-circuit"
+          ],
+          "variables": [
+            "Situation",
+            "Contacts simultanés",
+            "État appareil"
+          ],
+          "observations": [
+            "Une tension entre contacts corporels peut provoquer passage de courant ; contact unique idéalisé d’un oiseau ne justifie aucune expérimentation humaine"
+          ],
+          "deduction": "Prévenir le contact et les défauts est essentiel ; secteur et personne ne sont pas un terrain d’essai.",
+          "explanation": "Électrisation et électrocution sont distinguées. Contenus de secours et seuils humains requièrent rédaction séparée contrôlée avant publication.",
+          "application": "Associer chaque situation à un risque et à une action adaptée à une enfant.",
+          "correction_rules": [
+            "Réponses préparées sans geste de secours dangereux",
+            "Ni seuil d’innocuité universel ni réparation de prise par enfant",
+            "Pas de jeu consistant à chercher le courant corporel maximal supportable"
+          ],
+          "model_limits": [
+            "Activité documentaire ; aucune expérience secteur ou sur corps",
+            "Exclure déplacement de victime avec bois sec, conseil de réparation de prises et normes du guide153",
+            "Contenu élève de prévention à relire indépendamment avant intégration."
+          ]
+        }
+      ]
+    }
+  ]
+}

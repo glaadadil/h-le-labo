@@ -1,0 +1,24 @@
+// Modules verified before publication.
+import {workshops as w0} from './modules/electricite.js';
+import {workshops as w1} from './modules/mesures.js';
+import {workshops as w2} from './modules/dissolution.js';
+import {workshops as w3} from './modules/m04.js';
+import {workshops as w4} from './modules/m11.js';
+import {workshops as w5} from './modules/e03.js';
+import {workshops as w6} from './modules/m05.js';
+import {workshops as w7} from './modules/m02.js';
+import {workshops as w8} from './modules/m13.js';
+import {workshops as w9} from './modules/e04.js';
+import {workshops as w10} from './modules/m06.js';
+import {workshops as w11} from './modules/m09.js';
+import {workshops as w12} from './modules/m01.js';
+import {workshops as w13} from './modules/m14.js';
+import {workshops as w14} from './modules/e05.js';
+import {workshops as w15} from './modules/m07.js';
+import {workshops as w16} from './modules/m10.js';
+import {workshops as w17} from './modules/m08.js';
+import {workshops as w18} from './modules/e06.js';
+import {workshops as w19} from './modules/m15.js';
+import {workshops as w20} from './modules/e07.js';
+import {workshops as w21} from './modules/e01.js';
+export const workshops=[...w0,...w1,...w2,...w3,...w4,...w5,...w6,...w7,...w8,...w9,...w10,...w11,...w12,...w13,...w14,...w15,...w16,...w17,...w18,...w19,...w20,...w21];
